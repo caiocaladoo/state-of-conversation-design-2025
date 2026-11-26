@@ -16,11 +16,11 @@ Report map: https://raw.githubusercontent.com/caiocaladoo/state-of-conversation-
 
 Step 1. Download results.csv and compare_groups.csv and build ONE interactive artifact (a single page) with these three starter charts:
   a. "Where respondents live": share of respondents by world region (results, section "Geography", question "Residence region").
-     In the report: https://stateofconversationdesign.com/2025/chart/1.03 (finding F02).
+     In the report: https://stateofconversationdesign.com/2025/chapter/01-people/1.03 (finding F02).
   b. "Median yearly pay by level": median_salary_usd by level from compare_groups, dimension "Level", ordered Entry-level, Mid-level, Senior-level, Principal, Manager, Director/VP/C-level; leave out the "Other groups" row.
-     In the report: https://stateofconversationdesign.com/2025/chart/9.15 (pay by level inside each place) and finding F12.
+     In the report: https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.15 (pay by level inside each place) and finding F12.
   c. "What people expect for 2025": share who agree (pct) for question q45 in results.
-     In the report: https://stateofconversationdesign.com/2025/chart/7.45
+     In the report: https://stateofconversationdesign.com/2025/chapter/07-future/7.45
   Show the value and n on every bar.
   Under each chart, a source line with two links: "Source: State of Conversation Design 2025/26 survey (n = 286), open data" (linking to the repository) and "See it in the report" (linking to that chart's report page).
   At the top of the page, one line: "Built from the open data of the State of Conversation Design 2025/26 report", with a link to https://stateofconversationdesign.com/2025/. At the bottom, links to the report and to the repository.

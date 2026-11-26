@@ -24,9 +24,9 @@ The anonymized data behind the **State of Conversation Design** report, an annua
 
 Three charts from the [official report](https://stateofconversationdesign.com/2025/), made with this data. Click a chart to open it in the report. The prompt below asks an AI assistant to build its own versions in the same style, then explore with you.
 
-[![Where they live now, chart 1.03](images/report-chart-1-03.png)](https://stateofconversationdesign.com/2025/chart/1.03)
-[![Pay by level, inside each place, chart 9.15](images/report-chart-9-15.png)](https://stateofconversationdesign.com/2025/chart/9.15)
-[![Expectations for 2025, chart 7.45](images/report-chart-7-45.png)](https://stateofconversationdesign.com/2025/chart/7.45)
+[![Where they live now, chart 1.03](images/report-chart-1-03.png)](https://stateofconversationdesign.com/2025/chapter/01-people/1.03)
+[![Pay by level, inside each place, chart 9.15](images/report-chart-9-15.png)](https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.15)
+[![Expectations for 2025, chart 7.45](images/report-chart-7-45.png)](https://stateofconversationdesign.com/2025/chapter/07-future/7.45)
 
 ## Analyze it with AI
 

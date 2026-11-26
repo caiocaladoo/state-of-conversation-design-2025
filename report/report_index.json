@@ -57,63 +57,63 @@
    "name": "People",
    "intro": "Who answered: country, where they live, age, gender and communities.",
    "questions": "Q2–Q6",
-   "url": "https://stateofconversationdesign.com/2025/chapter/1"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people"
   },
   {
    "n": 2,
    "name": "Career",
    "intro": "Experience, level, workplace, team size, pay and how people feel about their careers.",
    "questions": "Q7–Q17",
-   "url": "https://stateofconversationdesign.com/2025/chapter/2"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career"
   },
   {
    "n": 3,
    "name": "Role",
    "intro": "Job titles, the value designers deliver, daily work, time, modality and collaboration.",
    "questions": "Q18–Q35",
-   "url": "https://stateofconversationdesign.com/2025/chapter/3"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role"
   },
   {
    "n": 4,
    "name": "Discipline",
    "intro": "Education, how the discipline is defined, what it is not, where people specialize and how they learn.",
    "questions": "Q21–Q28",
-   "url": "https://stateofconversationdesign.com/2025/chapter/4"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline"
   },
   {
    "n": 5,
    "name": "Practice",
    "intro": "Tools, why they matter, the biggest challenges and the channels people design for.",
    "questions": "Q30–Q34",
-   "url": "https://stateofconversationdesign.com/2025/chapter/5"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice"
   },
   {
    "n": 6,
    "name": "Past",
    "intro": "2024 in review: challenges, what excited and worried people, and AI's impact.",
    "questions": "Q36–Q39",
-   "url": "https://stateofconversationdesign.com/2025/chapter/6"
+   "url": "https://stateofconversationdesign.com/2025/chapter/06-past"
   },
   {
    "n": 7,
    "name": "Future",
    "intro": "What will be essential in 2025, what will be more and less about, and what is needed to succeed.",
    "questions": "Q40–Q45",
-   "url": "https://stateofconversationdesign.com/2025/chapter/7"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future"
   },
   {
    "n": 8,
    "name": "The survey",
    "intro": "How respondents felt about the questionnaire itself.",
    "questions": "Q46–Q48",
-   "url": "https://stateofconversationdesign.com/2025/chapter/8"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey"
   },
   {
    "n": 9,
    "name": "Cross-reads",
    "intro": "Answers to several questions combined: pay, level, team and company size, and AI's impact.",
    "questions": "15 charts",
-   "url": "https://stateofconversationdesign.com/2025/chapter/9"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads"
   }
  ],
  "charts": [
@@ -124,7 +124,7 @@
    "question": "What is your country of origin?",
    "chapter": 1,
    "takeaway": "Two countries, the United States and Brazil, give almost half of the answers (47%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/1.02"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.02"
   },
   {
    "id": "1.03",
@@ -133,7 +133,7 @@
    "question": "Where are you currently living?",
    "chapter": 1,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/1.03"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.03"
   },
   {
    "id": "1.04",
@@ -142,7 +142,7 @@
    "question": "What is your age?",
    "chapter": 1,
    "takeaway": "This is a young group: about two in three respondents are between 23 and 37.",
-   "url": "https://stateofconversationdesign.com/2025/chart/1.04"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.04"
   },
   {
    "id": "1.05",
@@ -151,7 +151,7 @@
    "question": "What is your gender identity?",
    "chapter": 1,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/1.05"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.05"
   },
   {
    "id": "1.06",
@@ -160,7 +160,7 @@
    "question": "Do you belong to any of these underrepresented communities?",
    "chapter": 1,
    "takeaway": "Belonging to an underrepresented group is common here: besides Women in Tech (54%), about one in five is neurodivergent and one in five is LGBTQ+.",
-   "url": "https://stateofconversationdesign.com/2025/chart/1.06"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.06"
   },
   {
    "id": "1.90",
@@ -169,7 +169,7 @@
    "question": "Number of people in each age band (Q4), women and men side by side (Q5).",
    "chapter": 1,
    "takeaway": "Women are the majority in every age group, with the highest share among people aged 23–32 (74%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/1.90"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.90"
   },
   {
    "id": "1.91",
@@ -178,7 +178,7 @@
    "question": "Where people come from (Q2) and where they live now (Q3).",
    "chapter": 1,
    "takeaway": "One in five lives outside the country they come from, and one in seven changed region. Europe → North America and Latin America → Europe are the most common routes.",
-   "url": "https://stateofconversationdesign.com/2025/chart/1.91"
+   "url": "https://stateofconversationdesign.com/2025/chapter/01-people/1.91"
   },
   {
    "id": "2.07",
@@ -187,7 +187,7 @@
    "question": "How long have you been working in the conversation design space?",
    "chapter": 2,
    "takeaway": "Experience is short: 8 in 10 have six years or less in conversation design.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.07"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.07"
   },
   {
    "id": "2.08",
@@ -196,7 +196,7 @@
    "question": "What is your level at your current job?",
    "chapter": 2,
    "takeaway": "Only 11% are entry-level, while 70% are mid-level or senior.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.08"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.08"
   },
   {
    "id": "2.09",
@@ -205,7 +205,7 @@
    "question": "During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",
    "chapter": 2,
    "takeaway": "Product companies lead in the three largest regions, but in Europe agencies and consultancies weigh far more: 42%, against 21% overall.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.09"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.09"
   },
   {
    "id": "2.10",
@@ -214,7 +214,7 @@
    "question": "Do you currently work remotely?",
    "chapter": 2,
    "takeaway": "Working fully on site is rare (2%). Europe is the hybrid exception: 58% hybrid.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.10"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.10"
   },
   {
    "id": "2.11",
@@ -223,7 +223,7 @@
    "question": "What type of workplace do you currently work at?",
    "chapter": 2,
    "takeaway": "The role has no single home: in-house teams and product teams are level, at about 35% each.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.11"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.11"
   },
   {
    "id": "2.12",
@@ -232,7 +232,7 @@
    "question": "What is the scope of your current work?",
    "chapter": 2,
    "takeaway": "Reach changes with region: most in North America work on global products (58%), most in Latin America on local ones (60%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.12"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.12"
   },
   {
    "id": "2.13",
@@ -241,7 +241,7 @@
    "question": "What is the size of your company?",
    "chapter": 2,
    "takeaway": "The field is split by company size: 37% work alone or in organisations of up to 200 people, and 34% in ones with more than 5,000.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.13"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.13"
   },
   {
    "id": "2.14",
@@ -250,7 +250,7 @@
    "question": "How many people are in your organization’s Conversation Design team, including full-time and contract roles?",
    "chapter": 2,
    "takeaway": "Many design alone or nearly alone: 4 in 10 are the only designer or in a team of 2–3.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.14"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.14"
   },
   {
    "id": "2.15",
@@ -259,7 +259,7 @@
    "question": "What is your annual salary range (in USD)? Full-time equivalent if part-time. (optional; shown in merged bands)",
    "chapter": 2,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/2.15"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.15"
   },
   {
    "id": "2.16",
@@ -268,7 +268,7 @@
    "question": "Rate the following career-related statements based on your experience.",
    "chapter": 2,
    "takeaway": "People feel more challenged by the work (66% agree) than valued for it (53%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.16"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.16"
   },
   {
    "id": "2.17",
@@ -277,7 +277,7 @@
    "question": "What actions or changes could help achieve or sustain a rating of 5? If possible, please share what influenced your rating.",
    "chapter": 2,
    "takeaway": "When people explain their career rating, generative AI comes up most (37%), then recognition of the role (33%). In Latin America, recognition leads (51%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.17"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.17"
   },
   {
    "id": "2.90",
@@ -286,7 +286,7 @@
    "question": "People per combination of years in the field (Q7) and current level (Q8).",
    "chapter": 2,
    "takeaway": "The field promotes early: many people with 4–6 years are already senior.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.90"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.90"
   },
   {
    "id": "2.91",
@@ -295,7 +295,7 @@
    "question": "Work arrangement (Q10) in each region where people live (Q3).",
    "chapter": 2,
    "takeaway": "Fully remote dominates in the Americas; Europe is the hybrid region.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.91"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.91"
   },
   {
    "id": "2.92",
@@ -304,7 +304,7 @@
    "question": "Average agreement with “My work is valued within my organisation” (Q16) by size of the conversation design team (Q14), with an 80% interval.",
    "chapter": 2,
    "takeaway": "Teams of 2 to 5 feel least valued. Teams of more than 50 feel it most, but the rise is not steady.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.92"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.92"
   },
   {
    "id": "2.93",
@@ -313,7 +313,7 @@
    "question": "Annual salary range (Q15), drawn with each band at its true width in dollars.",
    "chapter": 2,
    "takeaway": "51% of salary answers are under $50k, where the bands are narrow and the bars are tallest.",
-   "url": "https://stateofconversationdesign.com/2025/chart/2.93"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.93"
   },
   {
    "id": "3.18",
@@ -322,7 +322,7 @@
    "question": "What is your current job title? (titles grouped into families)",
    "chapter": 3,
    "takeaway": "More than half have another job title: only 47% are in the Conversation Designer group.",
-   "url": "https://stateofconversationdesign.com/2025/chart/3.18"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.18"
   },
   {
    "id": "3.19",
@@ -331,7 +331,7 @@
    "question": "Briefly describe your daily work as a Conversation Designer, as if explaining it to a stakeholder in your organization or context.",
    "chapter": 3,
    "takeaway": "Flows are the core of the job. Around them, stakeholders, analysis and building with developers each appear for about a third.",
-   "url": "https://stateofconversationdesign.com/2025/chart/3.19"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.19"
   },
   {
    "id": "3.20",
@@ -340,7 +340,7 @@
    "question": "What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?",
    "chapter": 3,
    "takeaway": "People tie their value to user experience and business goals much more than to revenue: only 23% name conversion or revenue.",
-   "url": "https://stateofconversationdesign.com/2025/chart/3.20"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.20"
   },
   {
    "id": "3.29",
@@ -349,7 +349,7 @@
    "question": "Which of these activities do you spend most time on?",
    "chapter": 3,
    "takeaway": "Craft is still the daily core: conversation UX and scripts are each picked by more than half. Prompt engineering is at 23%.",
-   "url": "https://stateofconversationdesign.com/2025/chart/3.29"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.29"
   },
   {
    "id": "3.33",
@@ -358,7 +358,7 @@
    "question": "Which modality have you worked with the most?",
    "chapter": 3,
    "takeaway": "Chat is nearly everywhere, but voice is a large part of the work in North America (58%) and Europe (52%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/3.33"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.33"
   },
   {
    "id": "3.35",
@@ -367,7 +367,7 @@
    "question": "How often do you collaborate with teams within your organization or with external stakeholders?",
    "chapter": 3,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/3.35"
+   "url": "https://stateofconversationdesign.com/2025/chapter/03-role/3.35"
   },
   {
    "id": "4.21",
@@ -376,7 +376,7 @@
    "question": "What is your formal education or structured training related to your work in Conversation Design?",
    "chapter": 4,
    "takeaway": "There is no single way in: work experience, degrees and courses each count for half or more, and 28% came self-taught from another background.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.21"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.21"
   },
   {
    "id": "4.22",
@@ -385,7 +385,7 @@
    "question": "If you have a formal degree or structured training, please specify the degree, certifications, or related field.",
    "chapter": 4,
    "takeaway": "Language is a big root of the field: linguistics and languages (43%) come close to courses and bootcamps (45%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.22"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.22"
   },
   {
    "id": "4.23",
@@ -394,7 +394,7 @@
    "question": "How do you define or explain the discipline of conversation design?",
    "chapter": 4,
    "takeaway": "People don’t share one definition of the discipline: no single idea appears in more than 37% of answers.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.23"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.23"
   },
   {
    "id": "4.24",
@@ -403,7 +403,7 @@
    "question": "Why do you believe conversation design is important for businesses and users?",
    "chapter": 4,
    "takeaway": "The value people describe is mostly user experience (46%) and savings (35%), far more than revenue (12%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.24"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.24"
   },
   {
    "id": "4.25",
@@ -412,7 +412,7 @@
    "question": "In your opinion, what ISN’T conversation design? What’s something most people get wrong?",
    "chapter": 4,
    "takeaway": "The misunderstanding they most want to correct: conversation design is not just copywriting (54%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.25"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.25"
   },
   {
    "id": "4.26",
@@ -421,7 +421,7 @@
    "question": "Which areas of conversation design do you specialize in?",
    "chapter": 4,
    "takeaway": "Generative AI is already a skill for almost half (47%). Agentic AI (17%) and AI orchestration (9%) are still rare.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.26"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.26"
   },
   {
    "id": "4.27",
@@ -430,7 +430,7 @@
    "question": "Which resources have been the most effective in supporting your professional development?",
    "chapter": 4,
    "takeaway": "People learn at work and from each other: 88% on the job, 58% with colleagues and mentors, 17% in company training.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.27"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.27"
   },
   {
    "id": "4.28",
@@ -439,7 +439,7 @@
    "question": "What local communities, professionals, or content (books, blogs, events) have helped you learn about conversation design? Please share your local recommendations.",
    "chapter": 4,
    "takeaway": "Communities are the most recommended way to learn, ahead of courses and books. In North America, books come first.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.28"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.28"
   },
   {
    "id": "4.28n",
@@ -448,7 +448,7 @@
    "question": "What local communities, professionals, or content (books, blogs, events) have helped you learn about conversation design? Please share your local recommendations. (most named by respondents)",
    "chapter": 4,
    "takeaway": "No resource is universal, and the favourites change by region: in Latin America, Bots Brasil is the most named (42% of only 26 answers).",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.28n"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.28n"
   },
   {
    "id": "4.90",
@@ -457,7 +457,7 @@
    "question": "Of the people who chose each specialisation (Q26), the share who also chose each other one.",
    "chapter": 4,
    "takeaway": "Specialisations come in bundles: people combine three or four, and some pairs appear together far more often than chance.",
-   "url": "https://stateofconversationdesign.com/2025/chart/4.90"
+   "url": "https://stateofconversationdesign.com/2025/chapter/04-discipline/4.90"
   },
   {
    "id": "5.30",
@@ -466,7 +466,7 @@
    "question": "Which types of tools do you primarily use in your workflow?",
    "chapter": 5,
    "takeaway": "The common kit is not technical: diagrams, spreadsheets and the conversation platform. Coding tools reach 10%.",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.30"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.30"
   },
   {
    "id": "5.31",
@@ -475,7 +475,7 @@
    "question": "Please share why these tools are important in your workflow or how you use them to support your work.",
    "chapter": 5,
    "takeaway": "Half of those who explain their tools name making flows visible to others as a use.",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.31"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.31"
   },
   {
    "id": "5.31n",
@@ -484,7 +484,7 @@
    "question": "Please share why these tools are important in your workflow or how you use them to support your work. (tools named by respondents)",
    "chapter": 5,
    "takeaway": "When people name a product, general-purpose tools come first; Voiceflow is the conversation platform named most (22%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.31n"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.31n"
   },
   {
    "id": "5.32",
@@ -493,7 +493,7 @@
    "question": "What is the biggest challenge you face in the practice of conversation design?",
    "chapter": 5,
    "takeaway": "The top challenge is keeping quality despite project constraints (46%), ahead of the limits of AI itself (35%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.32"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.32"
   },
   {
    "id": "5.34",
@@ -502,7 +502,7 @@
    "question": "Which specific channels or platforms do you primarily develop solutions for?",
    "chapter": 5,
    "takeaway": "There is no single main channel: voice leads in North America (58%) and WhatsApp in Latin America (61%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.34"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.34"
   },
   {
    "id": "5.90",
@@ -511,7 +511,7 @@
    "question": "Biggest challenge (Q32) linked to the most important improvement needed (Q43) when the people who name the challenge choose that improvement clearly more often.",
    "chapter": 5,
    "takeaway": "Each challenge points to its own remedy. The strongest link: 59% of those who chose “Communicating value to stakeholders” ask for “Greater stakeholder support”, against 45% of everyone (56 of 95 people).",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.90"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.90"
   },
   {
    "id": "5.91",
@@ -520,7 +520,7 @@
    "question": "Share of each archetype using each type of tool (Q30).",
    "chapter": 5,
    "takeaway": "Flow diagramming is common ground for most archetypes, but not for Strategists; data analysis, NLP training and coding split the archetypes most.",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.91"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.91"
   },
   {
    "id": "5.92",
@@ -529,7 +529,7 @@
    "question": "Each tool (Q30) placed by how many people use it and by the gap between the archetype that uses it most and least.",
    "chapter": 5,
    "takeaway": "No tool is common ground: the three most used (flow diagramming, spreadsheets, the conversation platform) each split the archetypes by 56 points or more.",
-   "url": "https://stateofconversationdesign.com/2025/chart/5.92"
+   "url": "https://stateofconversationdesign.com/2025/chapter/05-practice/5.92"
   },
   {
    "id": "6.36",
@@ -538,7 +538,7 @@
    "question": "What do you believe was the biggest challenge faced by conversation designers in 2024?",
    "chapter": 6,
    "takeaway": "Adopting generative AI was the shared challenge of the year, named three times as often as the next one.",
-   "url": "https://stateofconversationdesign.com/2025/chart/6.36"
+   "url": "https://stateofconversationdesign.com/2025/chapter/06-past/6.36"
   },
   {
    "id": "6.37",
@@ -547,7 +547,7 @@
    "question": "Reflecting on 2024, what trends or shifts in the field of conversation design made you feel the most excited and the most concerned?",
    "chapter": 6,
    "takeaway": "Asked what excited or worried them in 2024, three in four spoke about generative AI and language models.",
-   "url": "https://stateofconversationdesign.com/2025/chart/6.37"
+   "url": "https://stateofconversationdesign.com/2025/chapter/06-past/6.37"
   },
   {
    "id": "6.38",
@@ -556,7 +556,7 @@
    "question": "Rate the following statements based on your experience over the past year.",
    "chapter": 6,
    "takeaway": "Tools improved more than understanding: 60% say tools got much better; 40% say businesses now understand the value better.",
-   "url": "https://stateofconversationdesign.com/2025/chart/6.38"
+   "url": "https://stateofconversationdesign.com/2025/chapter/06-past/6.38"
   },
   {
    "id": "6.39",
@@ -565,7 +565,7 @@
    "question": "How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?",
    "chapter": 6,
    "takeaway": "AI did not do one thing to the role: new focus (32%), less demand (27%), new risks (23%) and a bigger role (19%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/6.39"
+   "url": "https://stateofconversationdesign.com/2025/chapter/06-past/6.39"
   },
   {
    "id": "7.40",
@@ -574,7 +574,7 @@
    "question": "Complete the sentence: One or two things that will be essential for every Conversation Design professional in 2025 are ___.",
    "chapter": 7,
    "takeaway": "AI literacy is the skill people most expect to be essential, well ahead of technical skills.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.40"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.40"
   },
   {
    "id": "7.41",
@@ -583,7 +583,7 @@
    "question": "Complete the sentence: Conversation Design in 2025 will be MORE about ___",
    "chapter": 7,
    "takeaway": "Expectations centre on design driven by generative AI (45%), with less agreement in Europe (30%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.41"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.41"
   },
   {
    "id": "7.42",
@@ -592,7 +592,7 @@
    "question": "Complete the sentence: Conversation Design in 2025 will be LESS about ___",
    "chapter": 7,
    "takeaway": "What people expect to fade is rigid and manual work: fixed flows and writing every line by hand.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.42"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.42"
   },
   {
    "id": "7.43",
@@ -601,7 +601,7 @@
    "question": "Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",
    "chapter": 7,
    "takeaway": "What would help most depends on place: training in Latin America (70%), stakeholder support in Europe (63%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.43"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.43"
   },
   {
    "id": "7.44",
@@ -610,7 +610,7 @@
    "question": "How do you perceive the current maturity of Conversation Design in 2025?",
    "chapter": 7,
    "takeaway": "Only 5% see an established field; about 8 in 10 call it fragmented or still without standards.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.44"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.44"
   },
   {
    "id": "7.45",
@@ -619,7 +619,7 @@
    "question": "Rate the following statements based on your expectations for 2025.",
    "chapter": 7,
    "takeaway": "People expect change more than growth: 77% see AI changing the work a lot, 53% expect more demand for designers.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.45"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.45"
   },
   {
    "id": "7.90",
@@ -628,7 +628,7 @@
    "question": "What AI did to the field (Q39) linked to themes people call essential for 2025 (Q40, open text grouped into themes).",
    "chapter": 7,
    "takeaway": "How people read AI shapes the skills they call essential. The strongest link: 21% of those who chose “New ethics, hallucination and trust challenges” name “Ethics & responsible AI”, against 9% of everyone (13 of 61 people).",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.90"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.90"
   },
   {
    "id": "7.91",
@@ -637,7 +637,7 @@
    "question": "Agreement with statements about 2024 (Q38) and expectations for 2025 (Q45), on the same five-point scale.",
    "chapter": 7,
    "takeaway": "Almost everyone expects AI to change the field, but only about half expect more demand for designers.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.91"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.91"
   },
   {
    "id": "7.92",
@@ -646,7 +646,7 @@
    "question": "Agreement that demand for conversational designers will grow (Q45), by what the person thinks AI did to the field (Q39).",
    "chapter": 7,
    "takeaway": "Those who saw AI expand the role average 4.00 on demand growth; those who saw it reduce demand average 2.95.",
-   "url": "https://stateofconversationdesign.com/2025/chart/7.92"
+   "url": "https://stateofconversationdesign.com/2025/chapter/07-future/7.92"
   },
   {
    "id": "8.46",
@@ -655,7 +655,7 @@
    "question": "How did you feel about the length of this survey?",
    "chapter": 8,
    "takeaway": "Two in three found the survey long.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.46"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.46"
   },
   {
    "id": "8.47",
@@ -664,7 +664,7 @@
    "question": "How do you perceive this survey and its continuity in the future?",
    "chapter": 8,
    "takeaway": "Respondents want the answers back: 89% are interested in the results.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.47"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.47"
   },
   {
    "id": "8.48",
@@ -673,7 +673,7 @@
    "question": "Feedback, suggestions, or any other helpful comments to improve the survey? Please share here.",
    "chapter": 8,
    "takeaway": "Among the comments, praise comes first; the other requests spread across results, clarity, content, length and answer format.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.48"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.48"
   },
   {
    "id": "8.49",
@@ -682,7 +682,7 @@
    "question": "Responses per week during the field period (27 January to 7 April 2025).",
    "chapter": 8,
    "takeaway": "Half the answers (144 of 286) arrived in the first four weeks, and a second wave in the last two weeks brought 91 (32%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.49"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.49"
   },
   {
    "id": "8.50",
@@ -691,7 +691,7 @@
    "question": "Time from opening the form to sending it, for the responses where the form recorded it.",
    "chapter": 8,
    "takeaway": "The typical respondent took 25 minutes; 48% finished in under 25.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.50"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.50"
   },
   {
    "id": "8.51",
@@ -700,7 +700,7 @@
    "question": "Responses per week and the running total over the eleven weeks of field work, with the typical time to answer.",
    "chapter": 8,
    "takeaway": "Answers came in two waves: half arrived in the first four weeks (144 of 286), and the last two weeks brought another 32%.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.51"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.51"
   },
   {
    "id": "8.52",
@@ -709,7 +709,7 @@
    "question": "How many responses each kind of chart rests on, and where groups are hidden.",
    "chapter": 8,
    "takeaway": "Every chart starts from 286 responses; salary charts rest on 265, and on 232 when split by region.",
-   "url": "https://stateofconversationdesign.com/2025/chart/8.52"
+   "url": "https://stateofconversationdesign.com/2025/chapter/08-survey/8.52"
   },
   {
    "id": "9.01",
@@ -718,7 +718,7 @@
    "question": "What is your annual salary range (in USD)? Median and middle half, compared by group. Optional question.",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.01"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.01"
   },
   {
    "id": "9.02",
@@ -727,7 +727,7 @@
    "question": "Rate the following career-related statements (Q16), shown by the respondent's level at the current job (Q8).",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.02"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.02"
   },
   {
    "id": "9.03",
@@ -736,7 +736,7 @@
    "question": "Rate the following career-related statements (Q16), shown by the size of the conversation design team (Q14).",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.03"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.03"
   },
   {
    "id": "9.04",
@@ -745,7 +745,7 @@
    "question": "Which areas of conversation design do you specialize in (Q26), by level at the current job (Q8)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.04"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.04"
   },
   {
    "id": "9.05",
@@ -754,7 +754,7 @@
    "question": "What is the biggest challenge you face in the practice of conversation design (Q32), by company size (Q13)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.05"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.05"
   },
   {
    "id": "9.06",
@@ -763,7 +763,7 @@
    "question": "How do you think the rise of agentic and generative AI has impacted the field (Q39), by years in conversation design (Q7)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.06"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.06"
   },
   {
    "id": "9.07",
@@ -772,7 +772,7 @@
    "question": "Which resources have been the most effective in supporting your professional development (Q27), by years in conversation design (Q7)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.07"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.07"
   },
   {
    "id": "9.08",
@@ -781,7 +781,7 @@
    "question": "Do you currently work remotely (Q10), by where the respondent lives (Q3)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.08"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.08"
   },
   {
    "id": "9.09",
@@ -790,7 +790,7 @@
    "question": "What is the most important improvement needed for conversation designers to succeed (Q43), by level at the current job (Q8)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.09"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.09"
   },
   {
    "id": "9.10",
@@ -799,7 +799,7 @@
    "question": "Expectations for 2025 (Q45), shown by what the respondent thinks AI has done to the field (Q39).",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.10"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.10"
   },
   {
    "id": "9.11",
@@ -808,7 +808,7 @@
    "question": "What is your gender identity (Q5), by level at the current job (Q8)?",
    "chapter": 9,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/9.11"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.11"
   },
   {
    "id": "9.12",
@@ -817,7 +817,7 @@
    "question": "Median annual salary (Q15) for each level (Q8) inside each region where people live (Q3).",
    "chapter": 9,
    "takeaway": "At the same level, pay depends on where people live: a senior's median is $175k in North America and $23k in Latin America, about 7.8×.",
-   "url": "https://stateofconversationdesign.com/2025/chart/9.12"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.12"
   },
   {
    "id": "9.13",
@@ -826,7 +826,7 @@
    "question": "Median annual salary (Q15) of women and men (Q5), overall and inside each region (Q3).",
    "chapter": 9,
    "takeaway": "Overall, women's median is $43k against $65k for men. Inside North America it is $135k against $140k: the gap mostly disappears within a region.",
-   "url": "https://stateofconversationdesign.com/2025/chart/9.13"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.13"
   },
   {
    "id": "9.14",
@@ -835,7 +835,7 @@
    "question": "Annual salary (Q15) of each respondent, one dot per person, in each region where people live (Q3).",
    "chapter": 9,
    "takeaway": "The regions barely overlap: in Latin America 73% earn $25k or less, while the North American median is $135k.",
-   "url": "https://stateofconversationdesign.com/2025/chart/9.14"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.14"
   },
   {
    "id": "9.15",
@@ -844,7 +844,7 @@
    "question": "Median annual salary (Q15) at each job level (Q8), inside each region and country where people live (Q3).",
    "chapter": 9,
    "takeaway": "Level matters, but place matters more: the median for a mid-level person in the United States is $115k; for a senior in Brazil it is $18k.",
-   "url": "https://stateofconversationdesign.com/2025/chart/9.15"
+   "url": "https://stateofconversationdesign.com/2025/chapter/09-cross-reads/9.15"
   },
   {
    "id": "A.pay",
@@ -853,7 +853,7 @@
    "question": "Median annual salary (Q15) of each archetype inside each region where people live (Q3).",
    "chapter": null,
    "takeaway": "Agent Builders have the highest overall median, but inside North America Bridge Builders earn as much, and in Latin America every group sits between $13k and $23k: pay mostly follows where people live.",
-   "url": "https://stateofconversationdesign.com/2025/chart/A.pay"
+   "url": "https://stateofconversationdesign.com/2025/archetypes/pay"
   },
   {
    "id": "A.table",
@@ -862,7 +862,7 @@
    "question": "For each archetype: share living in North America and Latin America (Q3), share senior or above (Q8), share of women (Q5) and median pay (Q15).",
    "chapter": null,
    "takeaway": "The archetypes differ sharply in region, seniority and gender, not only in what they do.",
-   "url": "https://stateofconversationdesign.com/2025/chart/A.table"
+   "url": "https://stateofconversationdesign.com/2025/archetypes/table"
   },
   {
    "id": "2.15 by country",
@@ -871,7 +871,7 @@
    "question": null,
    "chapter": null,
    "takeaway": null,
-   "url": "https://stateofconversationdesign.com/2025/chart/2.15?split=ctry"
+   "url": "https://stateofconversationdesign.com/2025/chapter/02-career/2.15?split=ctry"
   },
   {
    "id": "A.world",
@@ -880,7 +880,7 @@
    "question": null,
    "chapter": null,
    "takeaway": "The most common archetype changes with the region: Script Writer in North America (19%), Flow Craftsperson in Latin America (26%) and Bridge Builder in Europe (21%).",
-   "url": "https://stateofconversationdesign.com/2025/chart/A.world"
+   "url": "https://stateofconversationdesign.com/2025/archetypes/world"
   }
  ],
  "findings": [
@@ -892,7 +892,7 @@
    "why": "Not a quirk of one country: the profession itself is mostly women, unlike most tech roles.",
    "chapter": 1,
    "chart": "1.90",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F01"
+   "url": "https://stateofconversationdesign.com/2025/findings/F01"
   },
   {
    "id": "F02",
@@ -902,7 +902,7 @@
    "why": "The survey speaks for the Americas and Europe. Asia, Africa and the Middle East are too small here to draw conclusions about.",
    "chapter": 1,
    "chart": "1.03",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F02"
+   "url": "https://stateofconversationdesign.com/2025/findings/F02"
   },
   {
    "id": "F03",
@@ -912,7 +912,7 @@
    "why": "Brazil's community is as large as the US one, so results lean on two very different pay markets.",
    "chapter": 1,
    "chart": "1.02",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F03"
+   "url": "https://stateofconversationdesign.com/2025/findings/F03"
   },
   {
    "id": "F04",
@@ -922,7 +922,7 @@
    "why": "A field built mostly by one generation, which entered as chatbots became mainstream.",
    "chapter": 1,
    "chart": "1.04",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F04"
+   "url": "https://stateofconversationdesign.com/2025/findings/F04"
   },
   {
    "id": "F05",
@@ -932,7 +932,7 @@
    "why": "Conversation design travels: people move, mostly to where pay is higher.",
    "chapter": 1,
    "chart": "1.91",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F05"
+   "url": "https://stateofconversationdesign.com/2025/findings/F05"
   },
   {
    "id": "F06",
@@ -942,7 +942,7 @@
    "why": "Representation goes beyond gender: one in five belongs to the LGBTQ+ community.",
    "chapter": 1,
    "chart": "1.06",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F06"
+   "url": "https://stateofconversationdesign.com/2025/findings/F06"
   },
   {
    "id": "F07",
@@ -952,7 +952,7 @@
    "why": "Most people learned the work in the chatbot and LLM era; few carry experience from earlier waves.",
    "chapter": 2,
    "chart": "2.07",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F07"
+   "url": "https://stateofconversationdesign.com/2025/findings/F07"
   },
   {
    "id": "F08",
@@ -962,7 +962,7 @@
    "why": "Titles move fast in a young field: senior often means four or five years of experience.",
    "chapter": 2,
    "chart": "2.90",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F08"
+   "url": "https://stateofconversationdesign.com/2025/findings/F08"
   },
   {
    "id": "F09",
@@ -972,7 +972,7 @@
    "why": "Many designers have no peer to review their work, which shapes how they learn and how they are valued.",
    "chapter": 2,
    "chart": "2.14",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F09"
+   "url": "https://stateofconversationdesign.com/2025/findings/F09"
   },
   {
    "id": "F10",
@@ -982,7 +982,7 @@
    "why": "Having peers who understand the work seems to help it be recognised.",
    "chapter": 2,
    "chart": "2.92",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F10"
+   "url": "https://stateofconversationdesign.com/2025/findings/F10"
   },
   {
    "id": "F11",
@@ -992,7 +992,7 @@
    "why": "Hiring is already global, which puts people from different pay markets in the same teams.",
    "chapter": 2,
    "chart": "2.91",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F11"
+   "url": "https://stateofconversationdesign.com/2025/findings/F11"
   },
   {
    "id": "F12",
@@ -1002,7 +1002,7 @@
    "why": "An average salary would describe nobody: read pay by region.",
    "chapter": 2,
    "chart": "2.93",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F12"
+   "url": "https://stateofconversationdesign.com/2025/findings/F12"
   },
   {
    "id": "F13",
@@ -1012,7 +1012,7 @@
    "why": "People feel their work matters more than their organisation shows it does.",
    "chapter": 2,
    "chart": "2.17",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F13"
+   "url": "https://stateofconversationdesign.com/2025/findings/F13"
   },
   {
    "id": "F14",
@@ -1022,7 +1022,7 @@
    "why": "For pay, where you live counts far more than how senior you are.",
    "chapter": 9,
    "chart": "9.12",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F14"
+   "url": "https://stateofconversationdesign.com/2025/findings/F14"
   },
   {
    "id": "F15",
@@ -1032,7 +1032,7 @@
    "why": "Women are a larger share in Latin America, where pay is lowest; compared inside one region, the gap almost closes.",
    "chapter": 9,
    "chart": "9.13",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F15"
+   "url": "https://stateofconversationdesign.com/2025/findings/F15"
   },
   {
    "id": "F16",
@@ -1042,7 +1042,7 @@
    "why": "The majority at the base does not reach leadership in the same proportion.",
    "chapter": 9,
    "chart": "9.11",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F16"
+   "url": "https://stateofconversationdesign.com/2025/findings/F16"
   },
   {
    "id": "F17",
@@ -1052,7 +1052,7 @@
    "why": "Recognition comes with seniority and with having a team around you.",
    "chapter": 9,
    "chart": "9.02",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F17"
+   "url": "https://stateofconversationdesign.com/2025/findings/F17"
   },
   {
    "id": "F18",
@@ -1062,7 +1062,7 @@
    "why": "In smaller companies the role is usually a team of one.",
    "chapter": 2,
    "chart": "2.14",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F18"
+   "url": "https://stateofconversationdesign.com/2025/findings/F18"
   },
   {
    "id": "F19",
@@ -1072,7 +1072,7 @@
    "why": "Recognition and career prospects rise and fall together.",
    "chapter": 2,
    "chart": "2.16",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F19"
+   "url": "https://stateofconversationdesign.com/2025/findings/F19"
   },
   {
    "id": "F20",
@@ -1082,7 +1082,7 @@
    "why": "A signal, not a rule: the groups are small, but moving does not pay off the same way everywhere.",
    "chapter": 1,
    "chart": "1.91",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F20"
+   "url": "https://stateofconversationdesign.com/2025/findings/F20"
   },
   {
    "id": "F21",
@@ -1092,7 +1092,7 @@
    "why": "A large share builds for several companies, not inside one product.",
    "chapter": 2,
    "chart": "2.09",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F21"
+   "url": "https://stateofconversationdesign.com/2025/findings/F21"
   },
   {
    "id": "F22",
@@ -1102,7 +1102,7 @@
    "why": "Many designers write for audiences and languages beyond their own.",
    "chapter": 2,
    "chart": "2.12",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F22"
+   "url": "https://stateofconversationdesign.com/2025/findings/F22"
   },
   {
    "id": "F23",
@@ -1112,7 +1112,7 @@
    "why": "A shared name is a sign of a maturing profession.",
    "chapter": 3,
    "chart": "3.18",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F23"
+   "url": "https://stateofconversationdesign.com/2025/findings/F23"
   },
   {
    "id": "F24",
@@ -1122,7 +1122,7 @@
    "why": "What counts as conversation design depends on the market: voice in the north, chat in Latin America.",
    "chapter": 3,
    "chart": "3.33",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F24"
+   "url": "https://stateofconversationdesign.com/2025/findings/F24"
   },
   {
    "id": "F25",
@@ -1132,7 +1132,7 @@
    "why": "Multichannel and multimodal skills are still rare, and could set people apart.",
    "chapter": 3,
    "chart": "3.33",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F25"
+   "url": "https://stateofconversationdesign.com/2025/findings/F25"
   },
   {
    "id": "F26",
@@ -1142,7 +1142,7 @@
    "why": "Designers argue in user terms first; business metrics come second.",
    "chapter": 3,
    "chart": "3.20",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F26"
+   "url": "https://stateofconversationdesign.com/2025/findings/F26"
   },
   {
    "id": "F27",
@@ -1152,7 +1152,7 @@
    "why": "The work is shaped by product teams, but rarely discussed where budgets are decided.",
    "chapter": 3,
    "chart": "3.35",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F27"
+   "url": "https://stateofconversationdesign.com/2025/findings/F27"
   },
   {
    "id": "F28",
@@ -1162,7 +1162,7 @@
    "why": "Part of the gap is the work, part is where each archetype lives: compare inside each region.",
    "chapter": 3,
    "chart": "A.pay",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F28"
+   "url": "https://stateofconversationdesign.com/2025/findings/F28"
   },
   {
    "id": "F29",
@@ -1172,7 +1172,7 @@
    "why": "The more technical archetypes are where men are best represented.",
    "chapter": 3,
    "chart": "A.table",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F29"
+   "url": "https://stateofconversationdesign.com/2025/findings/F29"
   },
   {
    "id": "F30",
@@ -1182,7 +1182,7 @@
    "why": "There is no standard path in; schools have not caught up with the role.",
    "chapter": 4,
    "chart": "4.27",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F30"
+   "url": "https://stateofconversationdesign.com/2025/findings/F30"
   },
   {
    "id": "F31",
@@ -1192,7 +1192,7 @@
    "why": "Linguistics and languages are a common way in, alongside design.",
    "chapter": 4,
    "chart": "4.22",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F31"
+   "url": "https://stateofconversationdesign.com/2025/findings/F31"
   },
   {
    "id": "F32",
@@ -1202,7 +1202,7 @@
    "why": "Practitioners still spend energy explaining that the work is more than writing bot lines.",
    "chapter": 4,
    "chart": "4.25",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F32"
+   "url": "https://stateofconversationdesign.com/2025/findings/F32"
   },
   {
    "id": "F33",
@@ -1212,7 +1212,7 @@
    "why": "Generative AI moved from novelty to everyday skill within a year.",
    "chapter": 4,
    "chart": "4.26",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F33"
+   "url": "https://stateofconversationdesign.com/2025/findings/F33"
   },
   {
    "id": "F34",
@@ -1222,7 +1222,7 @@
    "why": "The case for the work is made in two currencies: experience and cost.",
    "chapter": 4,
    "chart": "4.24",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F34"
+   "url": "https://stateofconversationdesign.com/2025/findings/F34"
   },
   {
    "id": "F35",
@@ -1232,7 +1232,7 @@
    "why": "Peer communities fill the gap left by formal education.",
    "chapter": 4,
    "chart": "4.28",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F35"
+   "url": "https://stateofconversationdesign.com/2025/findings/F35"
   },
   {
    "id": "F36",
@@ -1242,7 +1242,7 @@
    "why": "Growing in the role means moving from building flows to shaping strategy.",
    "chapter": 9,
    "chart": "9.04",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F36"
+   "url": "https://stateofconversationdesign.com/2025/findings/F36"
   },
   {
    "id": "F37",
@@ -1252,7 +1252,7 @@
    "why": "The lack of formal paths weighs most on those just starting.",
    "chapter": 9,
    "chart": "9.09",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F37"
+   "url": "https://stateofconversationdesign.com/2025/findings/F37"
   },
   {
    "id": "F38",
@@ -1262,7 +1262,7 @@
    "why": "Generic tools beat specialised ones: the craft lives in flows and tables.",
    "chapter": 5,
    "chart": "5.31n",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F38"
+   "url": "https://stateofconversationdesign.com/2025/findings/F38"
   },
   {
    "id": "F39",
@@ -1272,7 +1272,7 @@
    "why": "Most designers work above the code, which may change as agents spread.",
    "chapter": 5,
    "chart": "5.30",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F39"
+   "url": "https://stateofconversationdesign.com/2025/findings/F39"
   },
   {
    "id": "F40",
@@ -1282,7 +1282,7 @@
    "why": "The hardest part is delivering quality with little time and budget, not the technology.",
    "chapter": 5,
    "chart": "5.32",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F40"
+   "url": "https://stateofconversationdesign.com/2025/findings/F40"
   },
   {
    "id": "F41",
@@ -1292,7 +1292,7 @@
    "why": "Without shared metrics, designers struggle to prove impact.",
    "chapter": 5,
    "chart": "5.32",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F41"
+   "url": "https://stateofconversationdesign.com/2025/findings/F41"
   },
   {
    "id": "F42",
@@ -1302,7 +1302,7 @@
    "why": "Each type of designer works with a different kit; there is no single standard stack.",
    "chapter": 5,
    "chart": "5.92",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F42"
+   "url": "https://stateofconversationdesign.com/2025/findings/F42"
   },
   {
    "id": "F43",
@@ -1312,7 +1312,7 @@
    "why": "Both channels still matter, so skills in each stay relevant.",
    "chapter": 5,
    "chart": "5.34",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F43"
+   "url": "https://stateofconversationdesign.com/2025/findings/F43"
   },
   {
    "id": "F44",
@@ -1322,7 +1322,7 @@
    "why": "2024 was defined by one topic, which left little room for anything else.",
    "chapter": 6,
    "chart": "6.36",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F44"
+   "url": "https://stateofconversationdesign.com/2025/findings/F44"
   },
   {
    "id": "F45",
@@ -1332,7 +1332,7 @@
    "why": "Organisations adopted AI tools faster than they understood what designers bring.",
    "chapter": 6,
    "chart": "6.38",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F45"
+   "url": "https://stateofconversationdesign.com/2025/findings/F45"
   },
   {
    "id": "F46",
@@ -1342,7 +1342,7 @@
    "why": "Better technology did not turn into better careers in the same year.",
    "chapter": 6,
    "chart": "6.38",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F46"
+   "url": "https://stateofconversationdesign.com/2025/findings/F46"
   },
   {
    "id": "F47",
@@ -1352,7 +1352,7 @@
    "why": "The field has not agreed on what AI did to it.",
    "chapter": 6,
    "chart": "6.39",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F47"
+   "url": "https://stateofconversationdesign.com/2025/findings/F47"
   },
   {
    "id": "F48",
@@ -1362,7 +1362,7 @@
    "why": "Those who arrived with LLMs worry more about trust and ethics than veterans.",
    "chapter": 9,
    "chart": "9.06",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F48"
+   "url": "https://stateofconversationdesign.com/2025/findings/F48"
   },
   {
    "id": "F49",
@@ -1372,7 +1372,7 @@
    "why": "Everyone agrees the work will change; far fewer are sure there will be more of it.",
    "chapter": 7,
    "chart": "7.91",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F49"
+   "url": "https://stateofconversationdesign.com/2025/findings/F49"
   },
   {
    "id": "F50",
@@ -1382,7 +1382,7 @@
    "why": "European designers are the most cautious about growth.",
    "chapter": 7,
    "chart": "7.45",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F50"
+   "url": "https://stateofconversationdesign.com/2025/findings/F50"
   },
   {
    "id": "F51",
@@ -1392,7 +1392,7 @@
    "why": "Understanding models is now part of the job, not a specialisation.",
    "chapter": 7,
    "chart": "7.40",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F51"
+   "url": "https://stateofconversationdesign.com/2025/findings/F51"
   },
   {
    "id": "F52",
@@ -1402,7 +1402,7 @@
    "why": "Scripted, rule-based design is expected to shrink.",
    "chapter": 7,
    "chart": "7.42",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F52"
+   "url": "https://stateofconversationdesign.com/2025/findings/F52"
   },
   {
    "id": "F53",
@@ -1412,7 +1412,7 @@
    "why": "Without standards, each company defines the role its own way.",
    "chapter": 7,
    "chart": "7.44",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F53"
+   "url": "https://stateofconversationdesign.com/2025/findings/F53"
   },
   {
    "id": "F54",
@@ -1422,7 +1422,7 @@
    "why": "People ask for training before pay: they want a path to grow.",
    "chapter": 7,
    "chart": "7.43",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F54"
+   "url": "https://stateofconversationdesign.com/2025/findings/F54"
   },
   {
    "id": "F55",
@@ -1432,7 +1432,7 @@
    "why": "Optimism about the field follows how people read AI's effect on it.",
    "chapter": 9,
    "chart": "9.10",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F55"
+   "url": "https://stateofconversationdesign.com/2025/findings/F55"
   },
   {
    "id": "F56",
@@ -1442,7 +1442,7 @@
    "why": "The next edition will be shorter.",
    "chapter": 8,
    "chart": "8.50",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F56"
+   "url": "https://stateofconversationdesign.com/2025/findings/F56"
   },
   {
    "id": "F57",
@@ -1452,7 +1452,7 @@
    "why": "Interest in shared data is high, and this report answers it.",
    "chapter": 8,
    "chart": "8.47",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F57"
+   "url": "https://stateofconversationdesign.com/2025/findings/F57"
   },
   {
    "id": "F58",
@@ -1462,7 +1462,7 @@
    "why": "A long survey did not stop people from wanting to take part again.",
    "chapter": 8,
    "chart": "8.47",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F58"
+   "url": "https://stateofconversationdesign.com/2025/findings/F58"
   },
   {
    "id": "F59",
@@ -1472,7 +1472,7 @@
    "why": "Reminders worked: the final push brought a second wave of answers.",
    "chapter": 8,
    "chart": "8.51",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F59"
+   "url": "https://stateofconversationdesign.com/2025/findings/F59"
   },
   {
    "id": "F60",
@@ -1482,7 +1482,7 @@
    "why": "About 119 hours of volunteer time sit behind these numbers.",
    "chapter": 8,
    "chart": "8.51",
-   "url": "https://stateofconversationdesign.com/2025/findings?f=F60"
+   "url": "https://stateofconversationdesign.com/2025/findings/F60"
   }
  ],
  "archetypes": [
