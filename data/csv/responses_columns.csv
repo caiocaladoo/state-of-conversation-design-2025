@@ -1,0 +1,59 @@
+column_name,question
+respondent_id,respondent_id
+origin_region,Q2 · What is your country of origin? (world region)
+origin_country,"Q2 · What is your country of origin? (countries with fewer than 10 people: ""Other (region)"")"
+residence_region,Q3 · Where are you currently living? (world region)
+residence_country,"Q3 · Where are you currently living? (countries with fewer than 10 people: ""Other (region)"")"
+q05,Q5 · What is your gender identity?
+q07,Q7 · How long have you been working in the conversation design space?
+q08,Q8 · What is your level at your current job?
+q09,"Q9 · During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?"
+q10,Q10 · Do you currently work remotely?
+q11,Q11 · What type of workplace do you currently work at?
+q12,Q12 · What is the scope of your current work?
+q15,Q15 · What is your annual salary range (in USD)? Full-time equivalent if part-time.
+q16_growth,"Q16 · Rate the following career-related statements based on your experience. · I see clear career growth opportunities in conversation design. (1 = strongly disagree, 5 = strongly agree)"
+q16_impact,"Q16 · Rate the following career-related statements based on your experience. · I feel challenged to make meaningful impact with scalable solutions. (1 = strongly disagree, 5 = strongly agree)"
+q16_valued,"Q16 · Rate the following career-related statements based on your experience. · I feel that my work as a conversational designer is valued within my organization. (1 = strongly disagree, 5 = strongly agree)"
+q17,"Q17 · What actions or changes could help achieve or sustain a rating of 5? If possible, please share what influenced your rating."
+q18,Q18 · What is your current job title?
+q19,"Q19 · Briefly describe your daily work as a Conversation Designer, as if explaining it to a stakeholder in your organization or context."
+q20,Q20 · What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?
+q21,Q21 · What is your formal education or structured training related to your work in Conversation Design?
+q22,"Q22 · If you have a formal degree or structured training, please specify the degree, certifications, or related field."
+q23,Q23 · How do you define or explain the discipline of conversation design?
+q24,Q24 · Why do you believe conversation design is important for businesses and users?
+q25,"Q25 · In your opinion, what ISN’T conversation design? What’s something most people get wrong?"
+q26,Q26 · Which areas of conversation design do you specialize in?
+q27,Q27 · Which resources have been the most effective in supporting your professional development?
+q28,"Q28 · What local communities, professionals, or content (books, blogs, events) have helped you learn about conversation design? Please share your local recommendations."
+q29,Q29 · Which of these activities do you spend most time on?
+q30,Q30 · Which types of tools do you primarily use in your workflow?
+q31,Q31 · Please share why these tools are important in your workflow or how you use them to support your work.
+q32,Q32 · What is the biggest challenge you face in the practice of conversation design?
+q33,Q33 · Which modality have you worked with the most?
+q34,Q34 · Which specific channels or platforms do you primarily develop solutions for?
+q35_product_tech,"Q35 · How often do you collaborate with teams within your organization or with external stakeholders? · Internal - Product & Tech (Product, Engineering, Support)"
+q35_business_strategy,"Q35 · How often do you collaborate with teams within your organization or with external stakeholders? · Internal - Business & Strategy (Marketing, Customer Success, Revenue/Growth)"
+q35_leadership,"Q35 · How often do you collaborate with teams within your organization or with external stakeholders? · Leadership (C-Level, Strategy, Executives)"
+q35_external,"Q35 · How often do you collaborate with teams within your organization or with external stakeholders? · External Stakeholders (Clients, Partners, Vendors, Agencies, Consultants)"
+q35_communities,Q35 · How often do you collaborate with teams within your organization or with external stakeholders? · Industry Communities / Forums
+q36,Q36 · What do you believe was the biggest challenge faced by conversation designers in 2024?
+q37,"Q37 · Reflecting on 2024, what trends or shifts in the field of conversation design made you feel the most excited and the most concerned?"
+q38_perception,"Q38 · Rate the following statements based on your experience over the past year. · The perception of conversational design has improved. (1 = strongly disagree, 5 = strongly agree)"
+q38_career_opportunities,"Q38 · Rate the following statements based on your experience over the past year. · The industry has provided better career opportunities for conversational designers. (1 = strongly disagree, 5 = strongly agree)"
+q38_tools,"Q38 · Rate the following statements based on your experience over the past year. · The available tools and platforms for conversational design have significantly improved. (1 = strongly disagree, 5 = strongly agree)"
+q38_business_understanding,"Q38 · Rate the following statements based on your experience over the past year. · Businesses understand the value of conversational design better now in 2024. (1 = strongly disagree, 5 = strongly agree)"
+q39,"Q39 · How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?"
+q40,Q40 · Complete the sentence: One or two things that will be essential for every Conversation Design professional in 2025 are ___.
+q41,Q41 · Complete the sentence: Conversation Design in 2025 will be MORE about ___
+q42,Q42 · Complete the sentence: Conversation Design in 2025 will be LESS about ___
+q43,"Q43 · Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?"
+q44,Q44 · How do you perceive the current maturity of Conversation Design in 2025?
+q45_ai_change,"Q45 · Rate the following statements based on your expectations for 2025. · AI advancements will significantly change conversational design in 2025. (1 = strongly disagree, 5 = strongly agree)"
+q45_demand_growth,"Q45 · Rate the following statements based on your expectations for 2025. · The demand for conversational designers will grow in 2025. (1 = strongly disagree, 5 = strongly agree)"
+q45_ethics_relevance,"Q45 · Rate the following statements based on your expectations for 2025. · Ethical concerns in AI will become more relevant for conversational design in 2025. (1 = strongly disagree, 5 = strongly agree)"
+q45_structured_frameworks,"Q45 · Rate the following statements based on your expectations for 2025. · More companies will adopt structured conversational design frameworks in 2025. (1 = strongly disagree, 5 = strongly agree)"
+q46,Q46 · How did you feel about the length of this survey?
+q47,Q47 · How do you perceive this survey and its continuity in the future?
+q48,"Q48 · Feedback, suggestions, or any other helpful comments to improve the survey? Please share here."

@@ -1,0 +1,209 @@
+question_id,option_id,label,ordinal,min_value,max_value
+q04,23_27,23-27,1.0,23.0,27.0
+q04,28_32,28-32,2.0,28.0,32.0
+q04,33_37,33-37,3.0,33.0,37.0
+q04,38_42,38-42,4.0,38.0,42.0
+q04,43_47,43-47,5.0,43.0,47.0
+q04,48_52,48-52,6.0,48.0,52.0
+q04,53_plus,53+,7.0,53.0,
+q04,prefer_not_to_say,Prefer not to say,,,
+q05,female,Female,,,
+q05,male,Male,,,
+q05,non_binary_or_undisclosed,Non-binary or prefer not to say,,,
+q06,women_in_tech,Women in Tech,,,
+q06,lgbtq,LGBTQ+,,,
+q06,bipoc,"Black, Indigenous, or People of Color (BIPOC)",,,
+q06,neurodivergent,"Neurodivergent (e.g., ADHD, Autism, Dyslexia)",,,
+q06,immigrant_expat,Immigrants / Expats,,,
+q06,disability,People with disabilities,,,
+q06,other_group,Other underrepresented group,,,
+q06,none,None / I don’t belong to any of these groups,,,
+q06,prefer_not_to_say,Prefer not to say,,,
+q07,lt_1,Less than 1 year,1.0,0.0,1.0
+q07,1_3,1–3 years,2.0,1.0,3.0
+q07,4_6,4–6 years,3.0,4.0,6.0
+q07,7_10,7–10 years,4.0,7.0,10.0
+q07,11_plus,11+ years,5.0,11.0,
+q08,entry,Entry-level,1.0,,
+q08,mid,Mid-level,2.0,,
+q08,senior,Senior-level,3.0,,
+q08,principal,Principal,4.0,,
+q08,manager,Manager,5.0,,
+q08,executive,"Director, VP or C-level",6.0,,
+q09,product_company,"A product company (e.g., tech companies, SaaS, enterprise software)",,,
+q09,cai_provider,A conversational AI software/service provider,,,
+q09,agency,An agency or consultancy,,,
+q09,startup,A startup / new venture,,,
+q09,freelance,Freelance / Self-employed,,,
+q09,gov_nonprofit,Government or non-profit organization,,,
+q09,academia,Academia,,,
+q09,not_working_in_area,I did not work in this area in the past 12 months,,,
+q10,fully_remote,"Yes, fully remote",,,
+q10,hybrid,Hybrid (some remote and some in-office),,,
+q10,in_office,"No, fully in-office",,,
+q10,none_of_above,None of the above,,,
+q11,in_house,In-house/internal company,,,
+q11,product_team,Product team,,,
+q11,consultancy,Consultancy,,,
+q11,agency,Agency,,,
+q11,freelancer,Freelancer/independent,,,
+q12,local,"Local (You work within a specific country, state, or city)",,,
+q12,regional,"Regional (You work across multiple countries, states, or within a specific region)",,,
+q12,global,Global (You work across multiple countries or regions),,,
+q13,self_employed,Self-employed / Freelance,1.0,1.0,1.0
+q13,1_10,1–10 employees,2.0,1.0,10.0
+q13,11_50,11–50 employees,3.0,11.0,50.0
+q13,51_200,51–200 employees,4.0,51.0,200.0
+q13,201_500,201–500 employees,5.0,201.0,500.0
+q13,501_1000,"501–1,000 employees",6.0,501.0,1000.0
+q13,1001_5000,"1,001–5,000 employees",7.0,1001.0,5000.0
+q13,5001_10000,"5,001–10,000 employees",8.0,5001.0,10000.0
+q13,10001_50000,"10,001–50,000 employees",9.0,10001.0,50000.0
+q13,50000_plus,"More than 50,000 employees",10.0,50001.0,
+q14,only_me,I am the only one,1.0,1.0,1.0
+q14,2_3,2–3 people,2.0,2.0,3.0
+q14,4_5,4–5 people,3.0,4.0,5.0
+q14,6_10,6–10 people,4.0,6.0,10.0
+q14,11_20,11–20 people,5.0,11.0,20.0
+q14,21_50,21–50 people,6.0,21.0,50.0
+q14,51_plus,More than 50 people,7.0,51.0,
+q14,not_sure,I’m not sure,,,
+q15,0_5k,"USD 0–5,000 / year",1.0,0.0,5000.0
+q15,5k_10k,"USD 5,001–10,000 / year",2.0,5001.0,10000.0
+q15,10k_15k,"USD 10,001–15,000 / year",3.0,10001.0,15000.0
+q15,15k_20k,"USD 15,001–20,000 / year",4.0,15001.0,20000.0
+q15,20k_25k,"USD 20,001–25,000 / year",5.0,20001.0,25000.0
+q15,25k_30k,"USD 25,001–30,000 / year",6.0,25001.0,30000.0
+q15,30k_35k,"USD 30,001–35,000 / year",7.0,30001.0,35000.0
+q15,35k_40k,"USD 35,001–40,000 / year",8.0,35001.0,40000.0
+q15,40k_45k,"USD 40,001–45,000 / year",9.0,40001.0,45000.0
+q15,45k_50k,"USD 45,001–50,000 / year",10.0,45001.0,50000.0
+q15,50k_60k,"USD 50,001–60,000 / year",11.0,50001.0,60000.0
+q15,60k_70k,"USD 60,001–70,000 / year",12.0,60001.0,70000.0
+q15,70k_80k,"USD 70,001–80,000 / year",13.0,70001.0,80000.0
+q15,80k_90k,"USD 80,001–90,000 / year",14.0,80001.0,90000.0
+q15,90k_100k,"USD 90,001–100,000 / year",15.0,90001.0,100000.0
+q15,100k_110k,"USD 100,001–110,000 / year",16.0,100001.0,110000.0
+q15,110k_120k,"USD 110,001–120,000 / year",17.0,110001.0,120000.0
+q15,120k_130k,"USD 120,001–130,000 / year",18.0,120001.0,130000.0
+q15,130k_140k,"USD 130,001–140,000 / year",19.0,130001.0,140000.0
+q15,140k_150k,"USD 140,001–150,000 / year",20.0,140001.0,150000.0
+q15,150k_200k,"USD 150,001–200,000 / year",21.0,150001.0,200000.0
+q15,200k_plus,"USD 200,001+ / year",22.0,200001.0,
+q15,prefer_not_to_say,Prefer not to say,,,
+q16,growth,I see clear career growth opportunities in conversation design.,,,
+q16,valued,I feel that my work as a conversational designer is valued within my organization.,,,
+q16,impact,I feel challenged to make meaningful impact with scalable solutions.,,,
+q20,user_engagement,Improving user engagement and satisfaction through well-designed conversations,,,
+q20,business_alignment,Creating conversational flows that align with business goals and KPIs,,,
+q20,support_cost,Reducing customer support costs by automating interactions effectively,,,
+q20,collaboration,"Facilitating cross-functional collaboration between product, engineering, and business teams",,,
+q20,nlp_accuracy,Enhancing NLP accuracy through data training and optimization efforts,,,
+q20,conversion,Increasing conversion rates or revenue through improved chatbot/voice assistant experiences,,,
+q20,inclusivity_ethics,"Ensuring inclusivity, accessibility, and ethical considerations in conversational AI",,,
+q21,formal_degree,"I have a formal degree (Bachelor’s, Master’s, or PhD) in a related field (e.g., UX, Linguistics, AI, Data Science, Design, Engineering).",,,
+q21,courses_certs,"I have completed structured courses, bootcamps, or certifications related to these areas.",,,
+q21,on_the_job,I gained relevant skills through on-the-job training and work experience.,,,
+q21,self_taught,"My background is in a different field, and I am primarily self-taught.",,,
+q21,no_background,I do not have a background in this field but am interested in learning more.,,,
+q26,conv_ux,Conversational UX design (chat & voice interactions),,,
+q26,ux_writing,UX writing for chatbots and voice assistants,,,
+q26,genai,"Generative AI (e.g., LLM-based chatbot development)",,,
+q26,data_analysis,Data analysis & insights for conversational AI,,,
+q26,nlp_optimization,AI training & NLP model optimization,,,
+q26,strategy,Strategy and business applications of conversation design,,,
+q26,service_design,Service design (integrating conversation design into broader CX/UX strategies),,,
+q26,multimodal,"Multimodal design (combining chat, voice, UI, and other inputs)",,,
+q26,agentic_ai,"Agentic AI (e.g., AI-driven autonomous agents)",,,
+q26,ai_orchestration,AI orchestration (managing multiple AI systems),,,
+q27,on_the_job,On-the-job learning (hands-on experience at work),,,
+q27,colleagues,Colleagues (learning from coworkers and mentors),,,
+q27,online_education,"Online education (courses, certifications, MOOCs)",,,
+q27,peers,Peers (knowledge-sharing with other professionals),,,
+q27,conferences_meetups,"Conferences or meetups (industry events, networking)",,,
+q27,books,"Books (technical, business, design, or AI-related literature)",,,
+q27,blogs,Blogs (specialized articles and insights),,,
+q27,online_communities,"Online communities (forums, Discord, Slack, LinkedIn groups, etc.)",,,
+q27,social_media,"Social media (Twitter, LinkedIn, YouTube, podcasts)",,,
+q27,in_house_training,In-house training or workshops (organized by your company),,,
+q27,industry_reports,"Industry reports (trend analysis, market research, white papers)",,,
+q27,post_secondary,Post-secondary education (university or college degrees related to conversation design),,,
+q29,conv_ux_ui,Conversational UX/UI design,,,
+q29,scripts_flows,Writing conversational scripts and flows,,,
+q29,documentation,Documentation and knowledge management,,,
+q29,data_optimization,Data analysis and optimization,,,
+q29,research_testing,User research and testing,,,
+q29,strategy_roadmap,Strategy and roadmap planning,,,
+q29,pm_stakeholders,Project management and stakeholder communication,,,
+q29,prompt_engineering,Prompt engineering for generative AI,,,
+q29,nlp_training,AI/NLP model training,,,
+q29,journey_mapping,Customer journey mapping,,,
+q29,voice_tone,Voice and tone development,,,
+q29,workshops,Workshop or brainstorming sessions,,,
+q29,automation_orchestration,Automation and workflow orchestration,,,
+q29,impact_measurement,Business impact measurement,,,
+q29,agentic_design,Agentic AI design and development,,,
+q29,technical_integrations,Developing technical integrations for chatbots/voice assistants,,,
+q29,ai_orchestration,AI orchestration and workflow automation,,,
+q29,compliance_ethics_a11y,"Compliance, ethics, and accessibility",,,
+q30,flow_diagramming,Flow diagramming,,,
+q30,spreadsheets,Spreadsheets,,,
+q30,conversation_platform,Conversation platform,,,
+q30,prototyping,Prototyping,,,
+q30,data_analysis,Data analysis and performance tracking,,,
+q30,project_management,Project management,,,
+q30,nlp_training,AI/NLP model training,,,
+q30,version_control_docs,Version control and documentation,,,
+q30,ide_coding,IDE and Coding,,,
+q32,constraints,"Delivering quality work despite project constraints (timelines, workload, lack of resources, among others)",,,
+q32,ai_limits,Adapting designs to AI/NLP limitations and technological constraints,,,
+q32,communicate_value,Communicating the value of conversation design to stakeholders,,,
+q32,edge_cases,Handling edge cases and unexpected user inputs effectively,,,
+q32,measure_success,Measuring success and optimizing conversational experiences based on data,,,
+q32,human_like,Designing natural and engaging conversations that feel human-like,,,
+q32,genai_integration,Integrating generative AI into structured conversational experiences,,,
+q32,brand_voice_genai,Maintaining brand voice and consistency when using generative AI,,,
+q32,human_handoff,Balancing automation with human intervention (handoffs to live agents),,,
+q33,chat,"Chat-based interfaces (e.g., chatbots, messaging apps)",,,
+q33,voice,"Voice-based interfaces (e.g., voice assistants, IVR systems)",,,
+q33,screen,"Screen-based interfaces (e.g., touchscreens, graphical UI for conversational systems)",,,
+q33,multimodal,"Multimodal interfaces (e.g., combining chat, voice, and visual elements)",,,
+q33,all,All of the above,,,
+q35,product_tech,"Internal - Product & Tech (Product, Engineering, Support)",,,
+q35,business_strategy,"Internal - Business & Strategy (Marketing, Customer Success, Revenue/Growth)",,,
+q35,leadership,"Leadership (C-Level, Strategy, Executives)",,,
+q35,external,"External Stakeholders (Clients, Partners, Vendors, Agencies, Consultants)",,,
+q35,communities,Industry Communities / Forums,,,
+q38,perception,The perception of conversational design has improved.,,,
+q38,career_opportunities,The industry has provided better career opportunities for conversational designers.,,,
+q38,tools,The available tools and platforms for conversational design have significantly improved.,,,
+q38,business_understanding,Businesses understand the value of conversational design better now in 2024.,,,
+q39,shift_to_prompting,It has shifted the focus from scripting and intent design to model fine-tuning and prompt engineering.,,,
+q39,reduced_demand,It has reduced the demand for traditional conversation design skills in favor of AI-driven automation.,,,
+q39,new_ethics_challenges,"It has created new challenges in ethical AI use, hallucination management, and user trust.",,,
+q39,expanded_role,It has significantly expanded the role and visibility of conversation designers.,,,
+q43,training,Better training/education,,,
+q43,stakeholder_support,Greater stakeholder support,,,
+q43,pay,Better pay/benefits,,,
+q43,processes,Improved processes,,,
+q43,tools,Better tools,,,
+q43,staffing,Increased staffing/resources,,,
+q43,boundaries,Clearer boundaries,,,
+q44,fragmented,"It is fragmented, with different industries applying it in varied ways.",,,
+q44,evolving_no_standards,It is evolving but still lacks standardization and clear frameworks.,,,
+q44,lagging_tech,It is struggling to keep up with technological advancements.,,,
+q44,declining,It is declining in relevance as AI becomes more autonomous.,,,
+q44,established,"It is an established field with clear methodologies, tools, and best practices.",,,
+q45,ai_change,AI advancements will significantly change conversational design in 2025.,,,
+q45,demand_growth,The demand for conversational designers will grow in 2025.,,,
+q45,ethics_relevance,Ethical concerns in AI will become more relevant for conversational design in 2025.,,,
+q45,structured_frameworks,More companies will adopt structured conversational design frameworks in 2025.,,,
+q46,too_long,Too long – It felt overwhelming.,,,
+q46,bit_long,A bit long – Some parts could be shorter.,,,
+q46,right,Just the right length – It covered everything well.,,,
+q46,too_short,Too short – I expected more questions.,,,
+q47,interested_results,I am interested in the results. I want to follow the findings.,,,
+q47,positive_would_repeat,"The experience was positive, and I would participate again.",,,
+q47,unsure_repeat,"It was interesting, but I’m not sure if I would participate again. Some parts could be improved.",,,
+q47,has_suggestions,I have suggestions for improvement. I will share my feedback in the next question.,,,
+q47,not_relevant,I didn’t find it very relevant. I would probably not participate again.,,,

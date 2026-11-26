@@ -1,0 +1,111 @@
+entity_id,label,entity_type
+ada,Ada,platform
+airtable,Airtable,design_tool
+alexa,Amazon Alexa,channel
+amazon_connect_lex,Amazon Connect / Lex,platform
+apple_messages,Apple Messages for Business,channel
+ar_vr,AR/VR / smart glasses,channel
+blip,Blip (Take Blip),platform
+botmaker,Botmaker,platform
+botpress,Botpress,platform
+botsociety,Botsociety,design_tool
+brevo,Brevo,platform
+chat_generic,Chat (unspecified),channel
+chatbase,Chatbase,platform
+chatlayer,Chatlayer (Sinch),platform
+chattigo,Chattigo,platform
+claude,Claude (Anthropic),model_vendor
+cognigy,Cognigy,platform
+colmeia,Colmeia,platform
+confluence,Confluence,design_tool
+copilot_studio,Microsoft Copilot / Copilot Studio / CLU,platform
+dialogflow,Dialogflow (ES/CX),platform
+draw_io,draw.io,design_tool
+elevenlabs,ElevenLabs,model_vendor
+email,Email,channel
+excel,Excel,design_tool
+facebook_messenger,Facebook / Messenger,channel
+figjam,FigJam,design_tool
+figma,Figma,design_tool
+five9,Five9,platform
+flow_ai,Flow.ai,platform
+flowise,Flowise,platform
+gemini,Google Gemini,model_vendor
+genesys,Genesys,platform
+google_assistant,Google Assistant,channel
+google_docs,Google Docs,design_tool
+google_sheets,Google Sheets,design_tool
+hubspot,HubSpot,platform
+ibm_watson,IBM Watson,platform
+in_car,In-car assistant,channel
+in_house_platform,In-house / proprietary platform,platform
+infobip,Infobip,platform
+instagram,Instagram,channel
+intercom,Intercom,platform
+jira,Jira,design_tool
+kiosk_panel,Kiosk / interactive panel,channel
+kore_ai,Kore.ai,platform
+landbot,Landbot,platform
+langchain,LangChain,other_tool
+line,LINE,channel
+liveperson,LivePerson,platform
+lovable,Lovable,platform
+lucidchart,Lucidchart,design_tool
+manychat,Manychat,platform
+miro,Miro,design_tool
+mobile_app,Mobile / in-app,channel
+ms_teams,Microsoft Teams,channel
+mural,Mural,design_tool
+notion,Notion,design_tool
+nuance_mix,Nuance Mix,platform
+openai,OpenAI,model_vendor
+postman,Postman,other_tool
+python,Python,other_tool
+quiq,Quiq,platform
+rasa,Rasa,platform
+rcs,RCS,channel
+rulai,Rulai,platform
+salesforce,Salesforce,platform
+sap_conversational,SAP Conversational AI,platform
+slack,Slack,channel
+smart_speaker,Smart speaker,channel
+sms,SMS / text messaging,channel
+social_media,Social media (generic),channel
+telegram,Telegram,channel
+tidio,Tidio,platform
+tv,TV,channel
+twilio,Twilio,platform
+vertex_ai,Google Vertex AI,platform
+visio,Visio,design_tool
+voice_phone,Voice / phone / IVR,channel
+voiceflow,Voiceflow,platform
+vozy,Vozy,platform
+web_chat,Web chat / website,channel
+weni,Weni,platform
+whatsapp,WhatsApp,channel
+whimsical,Whimsical,design_tool
+yellow_ai,Yellow.ai,platform
+zendesk,Zendesk,platform
+women_in_voice,Women in Voice,community
+vux_world,VUX World,media
+lets_bot,Let's Bot,community
+bots_brasil,Bots Brasil,community
+cdi,Conversation Design Institute (CDI),course_provider
+unparsed,Unparsed,event
+convo_club,Convo Club / ConvoCat,community
+voicelunch,VoiceLunch,community
+conversational_collective,Conversational Collective,community
+conversations_with_things,Book: Conversations with Things,book
+designing_vui,Book: Designing Voice User Interfaces,book
+conversational_design_book,Book: Conversational Design,book
+linkedin,LinkedIn,social
+youtube,YouTube,social
+medium,Medium,media
+european_chatbot_summit,European Chatbot Summit,event
+voice_summit,Voice Summit / Voice Tech Global,event
+arara_school,Arara School,course_provider
+ux_collective,UX Collective,media
+slack_groups,Slack / Discord groups,community
+voiceflow_community,Voiceflow community,community
+uxcc,UX Content Collective (UXCC),course_provider
+udemy_coursera,Udemy / Coursera,course_provider

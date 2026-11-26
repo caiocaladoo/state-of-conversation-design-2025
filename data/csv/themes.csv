@@ -1,0 +1,160 @@
+question_id,theme_id,theme,source,respondent_count
+q17,career_path_growth,Career path & growth,cluster_v3,44
+q17,education_mentoring,Education & mentoring,cluster_v3,31
+q17,genai_impact_on_the_role,GenAI impact on the role,cluster_v3,60
+q17,leadership_stakeholder_buy_in,Leadership & stakeholder buy-in,cluster_v3,21
+q17,market_demand_opportunities,Market demand & opportunities,cluster_v3,40
+q17,other,Other,cluster_v3,2
+q17,role_recognition_value,Role recognition & value,cluster_v3,54
+q17,role_scope_ambiguity,Role scope & ambiguity,cluster_v3,13
+q17,team_resources_ownership,"Team, resources & ownership",cluster_v3,38
+q18,ai_prompt_engineer_trainer_linguist,"AI / Prompt Engineer, Trainer & Linguist",cluster_v3,3
+q18,ai_voice_vui_designer,AI / Voice / VUI Designer,cluster_v3,21
+q18,conversation_designer,Conversation Designer,cluster_v3,135
+q18,conversational_ai_strategist_consultant,Conversational AI Strategist / Consultant,cluster_v3,29
+q18,leadership,Leadership,cluster_v3,14
+q18,other,Other,cluster_v3,2
+q18,research_data_analyst,Research / Data / Analyst,cluster_v3,7
+q18,ux_product_service_designer,UX / Product / Service Designer,cluster_v3,36
+q18,ux_writer_content_designer,UX Writer / Content Designer,cluster_v3,39
+q19,analysis_data_optimization,"Analysis, data & optimization",cluster_v3,68
+q19,build_implement_collaborate_with_devs,"Build, implement & collaborate with devs",cluster_v3,65
+q19,content_knowledge_writing,Content & knowledge writing,cluster_v3,48
+q19,designing_flows_dialogues,Designing flows & dialogues,cluster_v3,154
+q19,nlu_ai_training_annotation,NLU / AI training & annotation,cluster_v3,18
+q19,other,Other,cluster_v3,3
+q19,prompting_llms_agents,"Prompting, LLMs & agents",cluster_v3,33
+q19,requirements_stakeholder_work,Requirements & stakeholder work,cluster_v3,74
+q19,research_testing,Research & testing,cluster_v3,32
+q19,team_leadership_strategy,Team leadership & strategy,cluster_v3,26
+q22,business_management,Business & management,cluster_v3,7
+q22,communication_journalism_media,"Communication, journalism & media",cluster_v3,26
+q22,computer_science_engineering_data,"Computer science, engineering & data",cluster_v3,18
+q22,conversation_design_certification,Conversation design certification,cluster_v3,50
+q22,linguistics_languages,Linguistics & languages,cluster_v3,75
+q22,other,Other,cluster_v3,4
+q22,other_courses_bootcamps_vendor_training,"Other courses, bootcamps & vendor training",cluster_v3,80
+q22,psychology_social_sciences_humanities,"Psychology, social sciences & humanities",cluster_v3,28
+q22,self_taught_on_the_job,Self-taught / on the job,cluster_v3,11
+q22,ux_design_hci,"UX, design & HCI",cluster_v3,52
+q23,accessibility_inclusion,Accessibility & inclusion,cluster_v3,4
+q23,ai_llms_prompting,"AI, LLMs & prompting",cluster_v3,90
+q23,business_goals_customer_service,Business goals & customer service,cluster_v3,76
+q23,dialogue_flows_structure,Dialogue flows & structure,cluster_v3,61
+q23,interdisciplinary_practice,Interdisciplinary practice,cluster_v3,28
+q23,language_writing_voice,"Language, writing & voice",cluster_v3,87
+q23,natural_human_machine_communication,Natural human–machine communication,cluster_v3,102
+q23,other,Other,cluster_v3,9
+q23,research_testing_iteration,"Research, testing & iteration",cluster_v3,35
+q23,ux_design_discipline,UX / design discipline,cluster_v3,66
+q24,24_7_self_service_scale,24/7 self-service & scale,cluster_v3,17
+q24,brand_trust_loyalty,"Brand, trust & loyalty",cluster_v3,36
+q24,bridges_people_and_technology,Bridges people and technology,cluster_v3,27
+q24,cost_savings_efficiency,Cost savings & efficiency,cluster_v3,74
+q24,makes_ai_reliable_safe,Makes AI reliable & safe,cluster_v3,13
+q24,natural_accessible_interface,"Natural, accessible interface",cluster_v3,49
+q24,other,Other,cluster_v3,12
+q24,quality_of_design_vs_engineering_only,Quality of design vs. engineering-only,cluster_v3,27
+q24,revenue_business_goals,Revenue & business goals,cluster_v3,25
+q24,user_experience_satisfaction,User experience & satisfaction,cluster_v3,99
+q25,not_coding_development,Not coding / development,cluster_v3,42
+q25,not_easy_not_magic,Not easy / not magic,cluster_v3,13
+q25,not_just_chatbots_faqs,Not just chatbots / FAQs,cluster_v3,64
+q25,not_just_copywriting_scripting,Not just copywriting / scripting,cluster_v3,108
+q25,not_limited_to_voice_or_one_channel,Not limited to voice or one channel,cluster_v3,13
+q25,not_marketing_sales,Not marketing / sales,cluster_v3,9
+q25,not_one_and_done,Not one-and-done,cluster_v3,8
+q25,not_prompt_engineering_alone,Not prompt engineering alone,cluster_v3,35
+q25,not_ui_visual_or_ux_writing_only,Not UI / visual or UX writing only,cluster_v3,27
+q25,other,Other,cluster_v3,19
+q28,books,Books,cluster_v3,46
+q28,communities_groups,Communities & groups,cluster_v3,65
+q28,courses_certifications,Courses & certifications,cluster_v3,54
+q28,events_conferences,Events & conferences,cluster_v3,25
+q28,linkedin_social_media,LinkedIn & social media,cluster_v3,17
+q28,mentors_colleagues_peers,"Mentors, colleagues & peers",cluster_v3,43
+q28,none_not_local,None / not local,cluster_v3,7
+q28,other,Other,cluster_v3,5
+q28,own_research_on_the_job,Own research / on the job,cluster_v3,4
+q28,podcasts_newsletters_blogs,"Podcasts, newsletters & blogs",cluster_v3,22
+q28,vendor_docs_guidelines,Vendor docs & guidelines,cluster_v3,11
+q31,ai_prompt_work,AI / prompt work,cluster_v3,15
+q31,building_deploying_on_platforms,Building & deploying on platforms,cluster_v3,31
+q31,collaboration_with_clients_devs,Collaboration with clients & devs,cluster_v3,26
+q31,content_copy_management,Content & copy management,cluster_v3,25
+q31,data_analysis_measurement,Data analysis & measurement,cluster_v3,33
+q31,documentation_project_organization,Documentation & project organization,cluster_v3,35
+q31,other,Other,cluster_v3,10
+q31,prototyping_testing,Prototyping & testing,cluster_v3,18
+q31,tool_constraints_company_imposed_not_ideal,Tool constraints (company-imposed / not ideal),cluster_v3,6
+q31,visualize_communicate_flows,Visualize & communicate flows,cluster_v3,62
+q34,chat_chatbot_generic,Chat / chatbot (generic),cluster_v3,87
+q34,emerging_multimodal_surfaces,Emerging & multimodal surfaces,cluster_v3,8
+q34,internal_collaboration_tools,Internal / collaboration tools,cluster_v3,16
+q34,mobile_in_app,Mobile / in-app,cluster_v3,47
+q34,other,Other,cluster_v3,28
+q34,other_messaging_apps_social,Other messaging apps & social,cluster_v3,22
+q34,platform_named_channel_unspecified,"Platform named, channel unspecified",cluster_v3,42
+q34,sms_email,SMS & email,cluster_v3,8
+q34,voice_telephony_ivr,"Voice, telephony & IVR",cluster_v3,84
+q34,web_chat_website,Web chat / website,cluster_v3,79
+q34,whatsapp,WhatsApp,cluster_v3,61
+q36,adopting_genai_llms,Adopting GenAI / LLMs,cluster_v3,174
+q36,ethics_trust_regulation,"Ethics, trust & regulation",cluster_v3,14
+q36,hype_unrealistic_expectations,Hype & unrealistic expectations,cluster_v3,34
+q36,job_market_career,Job market & career,cluster_v3,41
+q36,keeping_up_learning,Keeping up & learning,cluster_v3,52
+q36,measuring_impact,Measuring impact,cluster_v3,4
+q36,other,Other,cluster_v3,10
+q36,proving_the_role_s_value,Proving the role's value,cluster_v3,41
+q36,reliability_control_of_ai,Reliability & control of AI,cluster_v3,21
+q36,stakeholders_organization,Stakeholders & organization,cluster_v3,40
+q36,tools_tech_integration_limits,"Tools, tech & integration limits",cluster_v3,57
+q37,agentic_ai_orchestration,Agentic AI & orchestration,cluster_v3,27
+q37,ethics_safety_quality_risks,"Ethics, safety & quality risks",cluster_v3,34
+q37,field_recognition_growing_demand,Field recognition & growing demand,cluster_v3,41
+q37,genai_llm_capabilities,GenAI & LLM capabilities,cluster_v3,203
+q37,learning_keeping_up,Learning & keeping up,cluster_v3,26
+q37,more_natural_personalized_conversations,"More natural, personalized conversations",cluster_v3,26
+q37,multimodal_voice,Multimodal & voice,cluster_v3,18
+q37,other,Other,cluster_v3,18
+q37,role_replacement_job_insecurity,Role replacement & job insecurity,cluster_v3,32
+q37,technical_advances_rag_tools_models,"Technical advances (RAG, tools, models)",cluster_v3,46
+q40,adaptability_resilience_continuous_learning,"Adaptability, resilience & continuous learning",cluster_v3,65
+q40,agentic_ai_orchestration,Agentic AI & orchestration,cluster_v3,20
+q40,ai_llm_literacy,AI / LLM literacy,cluster_v3,136
+q40,business_stakeholder_collaboration_skills,"Business, stakeholder & collaboration skills",cluster_v3,44
+q40,design_fundamentals_methodology,Design fundamentals & methodology,cluster_v3,22
+q40,ethics_responsible_ai,Ethics & responsible AI,cluster_v3,23
+q40,human_centered_soft_skills,Human-centered & soft skills,cluster_v3,49
+q40,other,Other,cluster_v3,12
+q40,prompt_engineering,Prompt engineering,cluster_v3,53
+q40,technical_skills,Technical skills,cluster_v3,80
+q41,agentic_ai_orchestration,Agentic AI & orchestration,cluster_v3,35
+q41,data_testing_analytics,"Data, testing & analytics",cluster_v3,14
+q41,ethics_trust_safety,"Ethics, trust & safety",cluster_v3,15
+q41,genai_llm_driven_design,GenAI / LLM-driven design,cluster_v3,124
+q41,multimodal_experiences,Multimodal experiences,cluster_v3,8
+q41,natural_human_like_conversation,"Natural, human-like conversation",cluster_v3,20
+q41,other,Other,cluster_v3,32
+q41,personalization_context,Personalization & context,cluster_v3,19
+q41,prompting_fine_tuning,Prompting & fine-tuning,cluster_v3,30
+q41,strategy_business_value,Strategy & business value,cluster_v3,38
+q41,user_understanding_experience_quality,User understanding & experience quality,cluster_v3,53
+q42,brand_persona_tone_embellishment,Brand persona & tone embellishment,cluster_v3,9
+q42,full_automation_ai_for_its_own_sake,Full automation & AI for its own sake,cluster_v3,23
+q42,legacy_channels_nlu,Legacy channels & NLU,cluster_v3,33
+q42,manual_scripting_dialogue_writing,Manual scripting & dialogue writing,cluster_v3,78
+q42,other,Other,cluster_v3,37
+q42,prompt_engineering,Prompt engineering,cluster_v3,6
+q42,rigid_flows_rule_based_bots,Rigid flows & rule-based bots,cluster_v3,92
+q42,specific_roles_certificates_or_jobs,"Specific roles, certificates or jobs",cluster_v3,7
+q42,traditional_conversation_design_in_general,Traditional conversation design in general,cluster_v3,46
+q42,unsure_nothing,Unsure / nothing,cluster_v3,20
+q48,answer_format_limits,Answer format & limits,cluster_v3,13
+q48,clarity_language_inclusion,"Clarity, language & inclusion",cluster_v3,16
+q48,content_suggestions,Content suggestions,cluster_v3,16
+q48,other,Other,cluster_v3,4
+q48,positive_feedback,Positive feedback,cluster_v3,38
+q48,results_follow_up,Results & follow-up,cluster_v3,17
+q48,survey_length,Survey length,cluster_v3,16

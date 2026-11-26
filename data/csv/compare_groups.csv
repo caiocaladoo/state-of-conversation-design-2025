@@ -1,0 +1,32 @@
+dimension,group,people,median_salary_usd,pct_fully_remote,avg_career_growth,avg_work_valued,avg_meaningful_impact,avg_expects_ai_change_2025,avg_expects_demand_growth_2025
+Residence region,East Asia and Pacific,16,95000.5,56.2,3.25,3.5,3.75,4.69,3.81
+Residence region,Europe and Central Asia,67,55000.5,35.8,3.54,3.45,3.75,4.16,3.25
+Residence region,Latin America and Caribbean,89,17500.5,70.8,3.69,3.35,4.01,4.33,3.62
+Residence region,North America,90,135000.5,71.1,3.53,3.57,3.77,4.13,3.56
+Residence region,South Asia,12,20000.5,50.0,2.92,3.17,3.17,4.17,3.17
+Residence region,Other groups (fewer than 10 people each),12,2500.0,58.3,3.33,3.58,3.5,3.25,3.75
+Level,Entry-level,32,12500.5,59.4,3.62,3.12,3.41,3.94,3.72
+Level,"Director, VP or C-level",13,115000.5,61.5,3.77,3.85,4.0,4.54,3.85
+Level,Manager,15,85000.5,60.0,4.0,3.8,4.27,4.53,3.47
+Level,Mid-level,99,32500.5,65.7,3.43,3.53,3.78,4.14,3.35
+Level,Principal,19,175000.5,52.6,3.79,3.42,3.89,4.42,3.53
+Level,Senior-level,100,47500.5,57.0,3.46,3.43,3.86,4.19,3.56
+Level,Other groups (fewer than 10 people each),8,31250.5,62.5,3.38,2.88,3.5,4.25,3.5
+Gender,Female,194,42500.5,63.9,3.56,3.45,3.8,4.23,3.6
+Gender,Male,86,65000.5,52.3,3.43,3.43,3.8,4.12,3.37
+Gender,Other groups (fewer than 10 people each),6,115000.5,66.7,4.0,3.83,3.67,4.33,2.67
+Experience,11+ years,17,175000.5,64.7,3.24,3.41,3.76,4.24,3.53
+Experience,1–3 years,90,32500.5,60.0,3.63,3.44,3.78,4.04,3.69
+Experience,4–6 years,115,45000.5,60.9,3.45,3.47,3.83,4.27,3.45
+Experience,7–10 years,40,85000.5,52.5,3.48,3.4,3.7,4.28,3.12
+Experience,Less than 1 year,24,12500.5,70.8,3.83,3.5,3.96,4.25,3.75
+Company size,"10,001–50,000 employees",28,95000.5,53.6,3.75,3.18,3.68,4.36,3.54
+Company size,"1,001–5,000 employees",37,37500.5,70.3,3.43,3.49,4.08,4.24,3.49
+Company size,11–50 employees,28,42500.5,64.3,3.79,3.86,3.86,4.04,3.36
+Company size,1–10 employees,19,32500.5,78.9,3.95,4.0,4.16,4.32,3.63
+Company size,201–500 employees,29,47500.5,44.8,3.41,3.59,3.52,4.21,3.38
+Company size,"More than 50,000 employees",49,115000.5,44.9,3.39,3.39,3.73,4.33,3.59
+Company size,"5,001–10,000 employees",19,37500.5,63.2,3.21,2.89,3.74,4.26,2.95
+Company size,"501–1,000 employees",19,56250.5,73.7,3.68,3.58,3.63,4.16,3.84
+Company size,51–200 employees,34,25000.5,70.6,3.47,3.29,3.76,3.82,3.47
+Company size,Self-employed / Freelance,24,25000.5,58.3,3.46,3.33,3.88,4.25,3.83

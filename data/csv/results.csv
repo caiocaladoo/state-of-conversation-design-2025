@@ -1,0 +1,553 @@
+section,question_id,question,answer,respondents,pct,mean,note
+Choice questions,q04,What is your age?,23-27,45,15.7,,286 answered
+Choice questions,q04,What is your age?,28-32,83,29.0,,286 answered
+Choice questions,q04,What is your age?,33-37,66,23.1,,286 answered
+Choice questions,q04,What is your age?,38-42,43,15.0,,286 answered
+Choice questions,q04,What is your age?,43-47,24,8.4,,286 answered
+Choice questions,q04,What is your age?,48-52,12,4.2,,286 answered
+Choice questions,q04,What is your age?,53+,12,4.2,,286 answered
+Choice questions,q04,What is your age?,Prefer not to say,1,0.3,,286 answered
+Choice questions,q05,What is your gender identity?,Female,194,67.8,,286 answered
+Choice questions,q05,What is your gender identity?,Male,86,30.1,,286 answered
+Choice questions,q05,What is your gender identity?,Non-binary or prefer not to say,6,2.1,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,Women in Tech,154,53.8,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,LGBTQ+,55,19.2,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,"Black, Indigenous, or People of Color (BIPOC)",45,15.7,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,"Neurodivergent (e.g., ADHD, Autism, Dyslexia)",54,18.9,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,Immigrants / Expats,36,12.6,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,People with disabilities,13,4.5,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,Other underrepresented group,2,0.7,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,None / I don’t belong to any of these groups,45,15.7,,286 answered
+Choice questions,q06,Do you belong to any of these underrepresented communities?,Prefer not to say,19,6.6,,286 answered
+Choice questions,q07,How long have you been working in the conversation design space?,Less than 1 year,24,8.4,,286 answered
+Choice questions,q07,How long have you been working in the conversation design space?,1–3 years,90,31.5,,286 answered
+Choice questions,q07,How long have you been working in the conversation design space?,4–6 years,115,40.2,,286 answered
+Choice questions,q07,How long have you been working in the conversation design space?,7–10 years,40,14.0,,286 answered
+Choice questions,q07,How long have you been working in the conversation design space?,11+ years,17,5.9,,286 answered
+Choice questions,q08,What is your level at your current job?,Entry-level,32,11.2,,286 answered
+Choice questions,q08,What is your level at your current job?,Mid-level,99,34.6,,286 answered
+Choice questions,q08,What is your level at your current job?,Senior-level,100,35.0,,286 answered
+Choice questions,q08,What is your level at your current job?,Principal,19,6.6,,286 answered
+Choice questions,q08,What is your level at your current job?,Manager,15,5.2,,286 answered
+Choice questions,q08,What is your level at your current job?,"Director, VP or C-level",13,4.5,,286 answered
+Choice questions,q08,What is your level at your current job?,Other (free text),8,2.8,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?","A product company (e.g., tech companies, SaaS, enterprise software)",171,59.8,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",A conversational AI software/service provider,78,27.3,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",An agency or consultancy,59,20.6,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",A startup / new venture,48,16.8,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",Freelance / Self-employed,26,9.1,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",Government or non-profit organization,7,2.4,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",Academia,6,2.1,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",I did not work in this area in the past 12 months,8,2.8,,286 answered
+Choice questions,q09,"During the past 12 months, where did you work as a Conversation Design Practitioner or perform functions directly related to Conversation Design?",Other (free text),25,8.7,,286 answered
+Choice questions,q10,Do you currently work remotely?,"Yes, fully remote",173,60.5,,286 answered
+Choice questions,q10,Do you currently work remotely?,Hybrid (some remote and some in-office),95,33.2,,286 answered
+Choice questions,q10,Do you currently work remotely?,"No, fully in-office",5,1.7,,286 answered
+Choice questions,q10,Do you currently work remotely?,None of the above,13,4.5,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,In-house/internal company,101,35.3,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,Product team,100,35.0,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,Consultancy,63,22.0,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,Agency,29,10.1,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,Freelancer/independent,26,9.1,,286 answered
+Choice questions,q11,What type of workplace do you currently work at?,Other (free text),23,8.0,,286 answered
+Choice questions,q12,What is the scope of your current work?,"Local (You work within a specific country, state, or city)",111,38.8,,286 answered
+Choice questions,q12,What is the scope of your current work?,"Regional (You work across multiple countries, states, or within a specific region)",75,26.2,,286 answered
+Choice questions,q12,What is the scope of your current work?,Global (You work across multiple countries or regions),120,42.0,,286 answered
+Choice questions,q13,What is the size of your company?,Self-employed / Freelance,24,8.4,,286 answered
+Choice questions,q13,What is the size of your company?,1–10 employees,19,6.6,,286 answered
+Choice questions,q13,What is the size of your company?,11–50 employees,28,9.8,,286 answered
+Choice questions,q13,What is the size of your company?,51–200 employees,34,11.9,,286 answered
+Choice questions,q13,What is the size of your company?,201–500 employees,29,10.1,,286 answered
+Choice questions,q13,What is the size of your company?,"501–1,000 employees",19,6.6,,286 answered
+Choice questions,q13,What is the size of your company?,"1,001–5,000 employees",37,12.9,,286 answered
+Choice questions,q13,What is the size of your company?,"5,001–10,000 employees",19,6.6,,286 answered
+Choice questions,q13,What is the size of your company?,"10,001–50,000 employees",28,9.8,,286 answered
+Choice questions,q13,What is the size of your company?,"More than 50,000 employees",49,17.1,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",I am the only one,60,21.0,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",2–3 people,59,20.6,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",4–5 people,47,16.4,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",6–10 people,35,12.2,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",11–20 people,41,14.3,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",21–50 people,16,5.6,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",More than 50 people,14,4.9,,286 answered
+Choice questions,q14,"How many people are in your organization’s Conversation Design team, including full-time and contract roles?",I’m not sure,14,4.9,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 0–5,000 / year",14,4.9,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 5,001–10,000 / year",16,5.6,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 10,001–15,000 / year",25,8.7,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 15,001–20,000 / year",19,6.6,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 20,001–25,000 / year",13,4.5,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 25,001–30,000 / year",8,2.8,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 30,001–35,000 / year",11,3.8,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 35,001–40,000 / year",12,4.2,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 40,001–45,000 / year",8,2.8,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 45,001–50,000 / year",9,3.1,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 50,001–60,000 / year",7,2.4,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 60,001–70,000 / year",13,4.5,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 70,001–80,000 / year",9,3.1,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 80,001–90,000 / year",12,4.2,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 90,001–100,000 / year",8,2.8,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 100,001–110,000 / year",5,1.7,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 110,001–120,000 / year",13,4.5,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 120,001–130,000 / year",6,2.1,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 130,001–140,000 / year",12,4.2,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 140,001–150,000 / year",5,1.7,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 150,001–200,000 / year",29,10.1,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,"USD 200,001+ / year",11,3.8,,286 answered
+Choice questions,q15,What is your annual salary range (in USD)? Full-time equivalent if part-time.,Prefer not to say,21,7.3,,286 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Improving user engagement and satisfaction through well-designed conversations,198,69.5,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Creating conversational flows that align with business goals and KPIs,169,59.3,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Reducing customer support costs by automating interactions effectively,142,49.8,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,"Facilitating cross-functional collaboration between product, engineering, and business teams",83,29.1,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Enhancing NLP accuracy through data training and optimization efforts,74,26.0,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Increasing conversion rates or revenue through improved chatbot/voice assistant experiences,65,22.8,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,"Ensuring inclusivity, accessibility, and ethical considerations in conversational AI",52,18.2,,285 answered
+Choice questions,q20,What are the primary ways you deliver value as a Conversation Design practitioner in your organization or context?,Other (free text),13,4.6,,285 answered
+Choice questions,q21,What is your formal education or structured training related to your work in Conversation Design?,"I have a formal degree (Bachelor’s, Master’s, or PhD) in a related field (e.g., UX, Linguistics, AI, Data Science, Design, Engineering).",149,52.3,,285 answered
+Choice questions,q21,What is your formal education or structured training related to your work in Conversation Design?,"I have completed structured courses, bootcamps, or certifications related to these areas.",147,51.6,,285 answered
+Choice questions,q21,What is your formal education or structured training related to your work in Conversation Design?,I gained relevant skills through on-the-job training and work experience.,178,62.5,,285 answered
+Choice questions,q21,What is your formal education or structured training related to your work in Conversation Design?,"My background is in a different field, and I am primarily self-taught.",81,28.4,,285 answered
+Choice questions,q21,What is your formal education or structured training related to your work in Conversation Design?,I do not have a background in this field but am interested in learning more.,9,3.2,,285 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,Conversational UX design (chat & voice interactions),230,80.4,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,UX writing for chatbots and voice assistants,152,53.1,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,"Generative AI (e.g., LLM-based chatbot development)",135,47.2,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,Data analysis & insights for conversational AI,102,35.7,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,AI training & NLP model optimization,96,33.6,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,Strategy and business applications of conversation design,95,33.2,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,Service design (integrating conversation design into broader CX/UX strategies),94,32.9,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,"Multimodal design (combining chat, voice, UI, and other inputs)",71,24.8,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,"Agentic AI (e.g., AI-driven autonomous agents)",50,17.5,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,AI orchestration (managing multiple AI systems),26,9.1,,286 answered
+Choice questions,q26,Which areas of conversation design do you specialize in?,Other (free text),8,2.8,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,On-the-job learning (hands-on experience at work),252,88.1,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,Colleagues (learning from coworkers and mentors),165,57.7,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Online education (courses, certifications, MOOCs)",136,47.6,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,Peers (knowledge-sharing with other professionals),132,46.2,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Conferences or meetups (industry events, networking)",115,40.2,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Books (technical, business, design, or AI-related literature)",105,36.7,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,Blogs (specialized articles and insights),99,34.6,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Online communities (forums, Discord, Slack, LinkedIn groups, etc.)",87,30.4,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Social media (Twitter, LinkedIn, YouTube, podcasts)",69,24.1,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,In-house training or workshops (organized by your company),50,17.5,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,"Industry reports (trend analysis, market research, white papers)",48,16.8,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,Post-secondary education (university or college degrees related to conversation design),37,12.9,,286 answered
+Choice questions,q27,Which resources have been the most effective in supporting your professional development?,Other (free text),5,1.7,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Conversational UX/UI design,160,55.9,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Writing conversational scripts and flows,155,54.2,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Documentation and knowledge management,91,31.8,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Data analysis and optimization,88,30.8,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,User research and testing,81,28.3,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Strategy and roadmap planning,78,27.3,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Project management and stakeholder communication,73,25.5,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Prompt engineering for generative AI,67,23.4,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,AI/NLP model training,60,21.0,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Customer journey mapping,55,19.2,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Voice and tone development,50,17.5,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Workshop or brainstorming sessions,39,13.6,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Automation and workflow orchestration,37,12.9,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Business impact measurement,29,10.1,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Agentic AI design and development,27,9.4,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Developing technical integrations for chatbots/voice assistants,25,8.7,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,AI orchestration and workflow automation,18,6.3,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,"Compliance, ethics, and accessibility",13,4.5,,286 answered
+Choice questions,q29,Which of these activities do you spend most time on?,Other (free text),9,3.1,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Flow diagramming,221,77.3,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Spreadsheets,166,58.0,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Conversation platform,162,56.6,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Prototyping,124,43.4,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Data analysis and performance tracking,102,35.7,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Project management,70,24.5,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,AI/NLP model training,69,24.1,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Version control and documentation,55,19.2,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,IDE and Coding,28,9.8,,286 answered
+Choice questions,q30,Which types of tools do you primarily use in your workflow?,Other (free text),15,5.2,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,"Delivering quality work despite project constraints (timelines, workload, lack of resources, among others)",131,45.8,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Adapting designs to AI/NLP limitations and technological constraints,101,35.3,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Communicating the value of conversation design to stakeholders,96,33.6,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Handling edge cases and unexpected user inputs effectively,89,31.1,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Measuring success and optimizing conversational experiences based on data,82,28.7,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Designing natural and engaging conversations that feel human-like,75,26.2,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Integrating generative AI into structured conversational experiences,73,25.5,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Maintaining brand voice and consistency when using generative AI,38,13.3,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Balancing automation with human intervention (handoffs to live agents),28,9.8,,286 answered
+Choice questions,q32,What is the biggest challenge you face in the practice of conversation design?,Other (free text),6,2.1,,286 answered
+Choice questions,q33,Which modality have you worked with the most?,"Chat-based interfaces (e.g., chatbots, messaging apps)",231,81.1,,285 answered
+Choice questions,q33,Which modality have you worked with the most?,"Voice-based interfaces (e.g., voice assistants, IVR systems)",121,42.5,,285 answered
+Choice questions,q33,Which modality have you worked with the most?,"Screen-based interfaces (e.g., touchscreens, graphical UI for conversational systems)",44,15.4,,285 answered
+Choice questions,q33,Which modality have you worked with the most?,"Multimodal interfaces (e.g., combining chat, voice, and visual elements)",53,18.6,,285 answered
+Choice questions,q33,Which modality have you worked with the most?,All of the above,1,0.4,,285 answered
+Choice questions,q33,Which modality have you worked with the most?,Other (free text),3,1.1,,285 answered
+Choice questions,q39,"How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?",It has shifted the focus from scripting and intent design to model fine-tuning and prompt engineering.,91,31.8,,286 answered
+Choice questions,q39,"How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?",It has reduced the demand for traditional conversation design skills in favor of AI-driven automation.,77,26.9,,286 answered
+Choice questions,q39,"How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?","It has created new challenges in ethical AI use, hallucination management, and user trust.",65,22.7,,286 answered
+Choice questions,q39,"How do you think the rise of Agentic AI and Generative AI (e.g., ChatGPT, LLM-based assistants) has impacted the conversation design field?",It has significantly expanded the role and visibility of conversation designers.,53,18.5,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Better training/education,144,50.3,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Greater stakeholder support,127,44.4,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Better pay/benefits,115,40.2,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Improved processes,110,38.5,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Better tools,96,33.6,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Increased staffing/resources,55,19.2,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Clearer boundaries,51,17.8,,286 answered
+Choice questions,q43,"Looking forward, what is the most important improvement needed for Conversation Designers to succeed in the near future?",Other (free text),10,3.5,,286 answered
+Choice questions,q44,How do you perceive the current maturity of Conversation Design in 2025?,"It is fragmented, with different industries applying it in varied ways.",122,42.7,,286 answered
+Choice questions,q44,How do you perceive the current maturity of Conversation Design in 2025?,It is evolving but still lacks standardization and clear frameworks.,110,38.5,,286 answered
+Choice questions,q44,How do you perceive the current maturity of Conversation Design in 2025?,It is struggling to keep up with technological advancements.,22,7.7,,286 answered
+Choice questions,q44,How do you perceive the current maturity of Conversation Design in 2025?,It is declining in relevance as AI becomes more autonomous.,19,6.6,,286 answered
+Choice questions,q44,How do you perceive the current maturity of Conversation Design in 2025?,"It is an established field with clear methodologies, tools, and best practices.",13,4.5,,286 answered
+Choice questions,q46,How did you feel about the length of this survey?,Too long – It felt overwhelming.,49,17.1,,286 answered
+Choice questions,q46,How did you feel about the length of this survey?,A bit long – Some parts could be shorter.,139,48.6,,286 answered
+Choice questions,q46,How did you feel about the length of this survey?,Just the right length – It covered everything well.,96,33.6,,286 answered
+Choice questions,q46,How did you feel about the length of this survey?,Too short – I expected more questions.,2,0.7,,286 answered
+Choice questions,q47,How do you perceive this survey and its continuity in the future?,I am interested in the results. I want to follow the findings.,248,88.6,,280 answered
+Choice questions,q47,How do you perceive this survey and its continuity in the future?,"The experience was positive, and I would participate again.",142,50.7,,280 answered
+Choice questions,q47,How do you perceive this survey and its continuity in the future?,"It was interesting, but I’m not sure if I would participate again. Some parts could be improved.",20,7.1,,280 answered
+Choice questions,q47,How do you perceive this survey and its continuity in the future?,I have suggestions for improvement. I will share my feedback in the next question.,6,2.1,,280 answered
+Choice questions,q47,How do you perceive this survey and its continuity in the future?,I didn’t find it very relevant. I would probably not participate again.,4,1.4,,280 answered
+Ratings (1–5),q16,Rate the following career-related statements based on your experience.,I see clear career growth opportunities in conversation design.,286,54.5,3.53,pct = % rating 4–5
+Ratings (1–5),q16,Rate the following career-related statements based on your experience.,I feel challenged to make meaningful impact with scalable solutions.,286,66.4,3.8,pct = % rating 4–5
+Ratings (1–5),q16,Rate the following career-related statements based on your experience.,I feel that my work as a conversational designer is valued within my organization.,286,52.8,3.45,pct = % rating 4–5
+Ratings (1–5),q35,How often do you collaborate with teams within your organization or with external stakeholders?,"Internal - Business & Strategy (Marketing, Customer Success, Revenue/Growth)",286,52.1,3.36,pct = % rating 4–5 (Daily=5 … Never=1)
+Ratings (1–5),q35,How often do you collaborate with teams within your organization or with external stakeholders?,Industry Communities / Forums,286,16.1,2.42,pct = % rating 4–5 (Daily=5 … Never=1)
+Ratings (1–5),q35,How often do you collaborate with teams within your organization or with external stakeholders?,"External Stakeholders (Clients, Partners, Vendors, Agencies, Consultants)",286,54.9,3.35,pct = % rating 4–5 (Daily=5 … Never=1)
+Ratings (1–5),q35,How often do you collaborate with teams within your organization or with external stakeholders?,"Leadership (C-Level, Strategy, Executives)",286,32.5,2.87,pct = % rating 4–5 (Daily=5 … Never=1)
+Ratings (1–5),q35,How often do you collaborate with teams within your organization or with external stakeholders?,"Internal - Product & Tech (Product, Engineering, Support)",286,85.7,4.42,pct = % rating 4–5 (Daily=5 … Never=1)
+Ratings (1–5),q38,Rate the following statements based on your experience over the past year.,Businesses understand the value of conversational design better now in 2024.,286,39.5,3.12,pct = % rating 4–5
+Ratings (1–5),q38,Rate the following statements based on your experience over the past year.,The industry has provided better career opportunities for conversational designers.,286,39.5,3.12,pct = % rating 4–5
+Ratings (1–5),q38,Rate the following statements based on your experience over the past year.,The perception of conversational design has improved.,286,52.4,3.48,pct = % rating 4–5
+Ratings (1–5),q38,Rate the following statements based on your experience over the past year.,The available tools and platforms for conversational design have significantly improved.,286,60.5,3.74,pct = % rating 4–5
+Ratings (1–5),q45,Rate the following statements based on your expectations for 2025.,AI advancements will significantly change conversational design in 2025.,286,76.9,4.2,pct = % rating 4–5
+Ratings (1–5),q45,Rate the following statements based on your expectations for 2025.,The demand for conversational designers will grow in 2025.,286,53.1,3.51,pct = % rating 4–5
+Ratings (1–5),q45,Rate the following statements based on your expectations for 2025.,Ethical concerns in AI will become more relevant for conversational design in 2025.,286,73.8,4.08,pct = % rating 4–5
+Ratings (1–5),q45,Rate the following statements based on your expectations for 2025.,More companies will adopt structured conversational design frameworks in 2025.,286,47.9,3.34,pct = % rating 4–5
+Geography,,Residence region,North America,90,31.5,,
+Geography,,Residence region,Latin America and Caribbean,89,31.1,,
+Geography,,Residence region,Europe and Central Asia,67,23.4,,
+Geography,,Residence region,East Asia and Pacific,16,5.6,,
+Geography,,Residence region,South Asia,12,4.2,,
+Geography,,Residence region,"Middle East, North Africa and Sub-Saharan Africa",12,4.2,,
+Geography,,Residence country,United States,82,28.7,,
+Geography,,Residence country,Brazil,58,20.3,,
+Geography,,Residence country,Other (Europe and Central Asia),41,14.3,,
+Geography,,Residence country,Argentina,18,6.3,,
+Geography,,Residence country,Germany,14,4.9,,
+Geography,,Residence country,Other (Latin America and Caribbean),13,4.5,,
+Geography,,Residence country,United Kingdom,12,4.2,,
+Geography,,Residence country,India,12,4.2,,
+Geography,,Residence country,Australia,12,4.2,,
+Geography,,Residence country,"Other (Middle East, North Africa and Sub-Saharan Africa)",12,4.2,,
+Geography,,Residence country,Other (North America),8,2.8,,
+Geography,,Residence country,Other (East Asia and Pacific),4,1.4,,
+Geography,,Origin region,Latin America and Caribbean,96,33.6,,
+Geography,,Origin region,North America,74,25.9,,
+Geography,,Origin region,Europe and Central Asia,62,21.7,,
+Geography,,Origin region,East Asia and Pacific,21,7.3,,
+Geography,,Origin region,South Asia,20,7.0,,
+Geography,,Origin region,"Middle East, North Africa and Sub-Saharan Africa",13,4.5,,
+Geography,,Origin country,United States,70,24.5,,
+Geography,,Origin country,Brazil,64,22.4,,
+Geography,,Origin country,Other (Europe and Central Asia),40,14.0,,
+Geography,,Origin country,Other (East Asia and Pacific),21,7.3,,
+Geography,,Origin country,India,20,7.0,,
+Geography,,Origin country,Argentina,17,5.9,,
+Geography,,Origin country,Other (Latin America and Caribbean),15,5.2,,
+Geography,,Origin country,"Other (Middle East, North Africa and Sub-Saharan Africa)",13,4.5,,
+Geography,,Origin country,United Kingdom,11,3.8,,
+Geography,,Origin country,Italy,11,3.8,,
+Geography,,Origin country,Other (North America),4,1.4,,
+Region flow,,Origin region → residence region,Latin America and Caribbean → Latin America and Caribbean,89,31.1,,
+Region flow,,Origin region → residence region,North America → North America,70,24.5,,
+Region flow,,Origin region → residence region,Europe and Central Asia → Europe and Central Asia,51,17.8,,
+Region flow,,Origin region → residence region,East Asia and Pacific → East Asia and Pacific,14,4.9,,
+Region flow,,Origin region → residence region,South Asia → South Asia,12,4.2,,
+Region flow,,Origin region → residence region,"Middle East, North Africa and Sub-Saharan Africa → Middle East, North Africa and Sub-Saharan Africa",11,3.8,,
+Region flow,,Origin region → residence region,Europe and Central Asia → North America,9,3.1,,
+Region flow,,Origin region → residence region,Latin America and Caribbean → Europe and Central Asia,7,2.4,,
+Region flow,,Origin region → residence region,South Asia → North America,6,2.1,,
+Region flow,,Origin region → residence region,East Asia and Pacific → North America,4,1.4,,
+Region flow,,Origin region → residence region,North America → Europe and Central Asia,4,1.4,,
+Region flow,,Origin region → residence region,East Asia and Pacific → Europe and Central Asia,3,1.0,,
+Region flow,,Origin region → residence region,Europe and Central Asia → East Asia and Pacific,2,0.7,,
+Region flow,,Origin region → residence region,"South Asia → Middle East, North Africa and Sub-Saharan Africa",1,0.3,,
+Region flow,,Origin region → residence region,South Asia → Europe and Central Asia,1,0.3,,
+Region flow,,Origin region → residence region,"Middle East, North Africa and Sub-Saharan Africa → Europe and Central Asia",1,0.3,,
+Region flow,,Origin region → residence region,"Middle East, North Africa and Sub-Saharan Africa → North America",1,0.3,,
+"Platforms, tools & communities",q28,"Local communities, people and content",Book: Conversations with Things,29,18.5,,book
+"Platforms, tools & communities",q28,"Local communities, people and content",Conversation Design Institute (CDI),25,15.9,,course_provider
+"Platforms, tools & communities",q28,"Local communities, people and content",Women in Voice,19,12.1,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",LinkedIn,18,11.5,,social
+"Platforms, tools & communities",q28,"Local communities, people and content",Unparsed,14,8.9,,event
+"Platforms, tools & communities",q28,"Local communities, people and content",VUX World,11,7.0,,media
+"Platforms, tools & communities",q28,"Local communities, people and content",Bots Brasil,11,7.0,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",Book: Designing Voice User Interfaces,10,6.4,,book
+"Platforms, tools & communities",q28,"Local communities, people and content",Convo Club / ConvoCat,10,6.4,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",Voiceflow community,6,3.8,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",Book: Conversational Design,6,3.8,,book
+"Platforms, tools & communities",q28,"Local communities, people and content",Let's Bot,5,3.2,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",VoiceLunch,5,3.2,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",YouTube,4,2.5,,social
+"Platforms, tools & communities",q28,"Local communities, people and content",Arara School,4,2.5,,course_provider
+"Platforms, tools & communities",q28,"Local communities, people and content",Udemy / Coursera,4,2.5,,course_provider
+"Platforms, tools & communities",q28,"Local communities, people and content",European Chatbot Summit,3,1.9,,event
+"Platforms, tools & communities",q28,"Local communities, people and content",Conversational Collective,3,1.9,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",Medium,3,1.9,,media
+"Platforms, tools & communities",q28,"Local communities, people and content",Slack / Discord groups,2,1.3,,community
+"Platforms, tools & communities",q28,"Local communities, people and content",Voice Summit / Voice Tech Global,2,1.3,,event
+"Platforms, tools & communities",q28,"Local communities, people and content",UX Collective,2,1.3,,media
+"Platforms, tools & communities",q28,"Local communities, people and content",Botsociety,1,0.6,,design_tool
+"Platforms, tools & communities",q28,"Local communities, people and content",UX Content Collective (UXCC),1,0.6,,course_provider
+"Platforms, tools & communities",q31,Why these tools matter,Google Sheets,27,22.1,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Figma,18,14.8,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Miro,14,11.5,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Voiceflow,13,10.7,,platform
+"Platforms, tools & communities",q31,Why these tools matter,FigJam,7,5.7,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Excel,7,5.7,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Jira,5,4.1,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Lucidchart,4,3.3,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Visio,4,3.3,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Confluence,3,2.5,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,draw.io,3,2.5,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Dialogflow (ES/CX),2,1.6,,platform
+"Platforms, tools & communities",q31,Why these tools matter,OpenAI,2,1.6,,model_vendor
+"Platforms, tools & communities",q31,Why these tools matter,Whimsical,2,1.6,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Nuance Mix,2,1.6,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Microsoft Copilot / Copilot Studio / CLU,2,1.6,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Mural,2,1.6,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,Botmaker,2,1.6,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Amazon Connect / Lex,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Cognigy,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Google Docs,1,0.8,,design_tool
+"Platforms, tools & communities",q31,Why these tools matter,ElevenLabs,1,0.8,,model_vendor
+"Platforms, tools & communities",q31,Why these tools matter,Botpress,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,LangChain,1,0.8,,other_tool
+"Platforms, tools & communities",q31,Why these tools matter,In-house / proprietary platform,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,IBM Watson,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Salesforce,1,0.8,,platform
+"Platforms, tools & communities",q31,Why these tools matter,Python,1,0.8,,other_tool
+"Platforms, tools & communities",q34,Channels and platforms,Voice / phone / IVR,83,30.6,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Web chat / website,83,30.6,,channel
+"Platforms, tools & communities",q34,Channels and platforms,WhatsApp,67,24.7,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Mobile / in-app,51,18.8,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Chat (unspecified),20,7.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Facebook / Messenger,19,7.0,,channel
+"Platforms, tools & communities",q34,Channels and platforms,In-house / proprietary platform,16,5.9,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Instagram,12,4.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,SMS / text messaging,11,4.1,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Dialogflow (ES/CX),10,3.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Blip (Take Blip),10,3.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Microsoft Teams,8,3.0,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Amazon Alexa,5,1.8,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Voiceflow,5,1.8,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Social media (generic),5,1.8,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Miro,4,1.5,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,Kore.ai,4,1.5,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Botmaker,4,1.5,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Figma,4,1.5,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,RCS,3,1.1,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Microsoft Copilot / Copilot Studio / CLU,3,1.1,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Smart speaker,3,1.1,,channel
+"Platforms, tools & communities",q34,Channels and platforms,TV,3,1.1,,channel
+"Platforms, tools & communities",q34,Channels and platforms,IBM Watson,3,1.1,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Amazon Connect / Lex,3,1.1,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Telegram,3,1.1,,channel
+"Platforms, tools & communities",q34,Channels and platforms,AR/VR / smart glasses,2,0.7,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Google Docs,2,0.7,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,Salesforce,2,0.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Nuance Mix,2,0.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Intercom,2,0.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Kiosk / interactive panel,2,0.7,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Quiq,2,0.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,In-car assistant,2,0.7,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Genesys,2,0.7,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Email,2,0.7,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Brevo,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Chatlayer (Sinch),1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Apple Messages for Business,1,0.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Chattigo,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Chatbase,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,FigJam,1,0.4,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,Flow.ai,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Google Sheets,1,0.4,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,Google Vertex AI,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Flowise,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Google Assistant,1,0.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Excel,1,0.4,,design_tool
+"Platforms, tools & communities",q34,Channels and platforms,Colmeia,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,LINE,1,0.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,LivePerson,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,OpenAI,1,0.4,,model_vendor
+"Platforms, tools & communities",q34,Channels and platforms,Infobip,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Rasa,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Slack,1,0.4,,channel
+"Platforms, tools & communities",q34,Channels and platforms,Vozy,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Twilio,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Weni,1,0.4,,platform
+"Platforms, tools & communities",q34,Channels and platforms,Whimsical,1,0.4,,design_tool
+Themes in open answers,q17,Why this career rating / what would make it a 5,GenAI impact on the role,60,37.0,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Role recognition & value,54,33.3,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Career path & growth,44,27.2,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Market demand & opportunities,40,24.7,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,"Team, resources & ownership",38,23.5,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Education & mentoring,31,19.1,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Leadership & stakeholder buy-in,21,13.0,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Role scope & ambiguity,13,8.0,,cluster_v3
+Themes in open answers,q17,Why this career rating / what would make it a 5,Other,2,1.2,,cluster_v3
+Themes in open answers,q18,Job title,Conversation Designer,135,47.2,,cluster_v3
+Themes in open answers,q18,Job title,UX Writer / Content Designer,39,13.6,,cluster_v3
+Themes in open answers,q18,Job title,UX / Product / Service Designer,36,12.6,,cluster_v3
+Themes in open answers,q18,Job title,Conversational AI Strategist / Consultant,29,10.1,,cluster_v3
+Themes in open answers,q18,Job title,AI / Voice / VUI Designer,21,7.3,,cluster_v3
+Themes in open answers,q18,Job title,Leadership,14,4.9,,cluster_v3
+Themes in open answers,q18,Job title,Research / Data / Analyst,7,2.4,,cluster_v3
+Themes in open answers,q18,Job title,"AI / Prompt Engineer, Trainer & Linguist",3,1.0,,cluster_v3
+Themes in open answers,q18,Job title,Other,2,0.7,,cluster_v3
+Themes in open answers,q19,Daily work,Designing flows & dialogues,154,72.0,,cluster_v3
+Themes in open answers,q19,Daily work,Requirements & stakeholder work,74,34.6,,cluster_v3
+Themes in open answers,q19,Daily work,"Analysis, data & optimization",68,31.8,,cluster_v3
+Themes in open answers,q19,Daily work,"Build, implement & collaborate with devs",65,30.4,,cluster_v3
+Themes in open answers,q19,Daily work,Content & knowledge writing,48,22.4,,cluster_v3
+Themes in open answers,q19,Daily work,"Prompting, LLMs & agents",33,15.4,,cluster_v3
+Themes in open answers,q19,Daily work,Research & testing,32,15.0,,cluster_v3
+Themes in open answers,q19,Daily work,Team leadership & strategy,26,12.1,,cluster_v3
+Themes in open answers,q19,Daily work,NLU / AI training & annotation,18,8.4,,cluster_v3
+Themes in open answers,q19,Daily work,Other,3,1.4,,cluster_v3
+Themes in open answers,q22,Education / training details,"Other courses, bootcamps & vendor training",80,45.5,,cluster_v3
+Themes in open answers,q22,Education / training details,Linguistics & languages,75,42.6,,cluster_v3
+Themes in open answers,q22,Education / training details,"UX, design & HCI",52,29.5,,cluster_v3
+Themes in open answers,q22,Education / training details,Conversation design certification,50,28.4,,cluster_v3
+Themes in open answers,q22,Education / training details,"Psychology, social sciences & humanities",28,15.9,,cluster_v3
+Themes in open answers,q22,Education / training details,"Communication, journalism & media",26,14.8,,cluster_v3
+Themes in open answers,q22,Education / training details,"Computer science, engineering & data",18,10.2,,cluster_v3
+Themes in open answers,q22,Education / training details,Self-taught / on the job,11,6.2,,cluster_v3
+Themes in open answers,q22,Education / training details,Business & management,7,4.0,,cluster_v3
+Themes in open answers,q22,Education / training details,Other,4,2.3,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Natural human–machine communication,102,36.7,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,"AI, LLMs & prompting",90,32.4,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,"Language, writing & voice",87,31.3,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Business goals & customer service,76,27.3,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,UX / design discipline,66,23.7,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Dialogue flows & structure,61,21.9,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,"Research, testing & iteration",35,12.6,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Interdisciplinary practice,28,10.1,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Other,9,3.2,,cluster_v3
+Themes in open answers,q23,Definition of conversation design,Accessibility & inclusion,4,1.4,,cluster_v3
+Themes in open answers,q24,Why it matters,User experience & satisfaction,99,46.5,,cluster_v3
+Themes in open answers,q24,Why it matters,Cost savings & efficiency,74,34.7,,cluster_v3
+Themes in open answers,q24,Why it matters,"Natural, accessible interface",49,23.0,,cluster_v3
+Themes in open answers,q24,Why it matters,"Brand, trust & loyalty",36,16.9,,cluster_v3
+Themes in open answers,q24,Why it matters,Quality of design vs. engineering-only,27,12.7,,cluster_v3
+Themes in open answers,q24,Why it matters,Bridges people and technology,27,12.7,,cluster_v3
+Themes in open answers,q24,Why it matters,Revenue & business goals,25,11.7,,cluster_v3
+Themes in open answers,q24,Why it matters,24/7 self-service & scale,17,8.0,,cluster_v3
+Themes in open answers,q24,Why it matters,Makes AI reliable & safe,13,6.1,,cluster_v3
+Themes in open answers,q24,Why it matters,Other,12,5.6,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not just copywriting / scripting,108,53.7,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not just chatbots / FAQs,64,31.8,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not coding / development,42,20.9,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not prompt engineering alone,35,17.4,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not UI / visual or UX writing only,27,13.4,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Other,19,9.5,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not limited to voice or one channel,13,6.5,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not easy / not magic,13,6.5,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not marketing / sales,9,4.5,,cluster_v3
+Themes in open answers,q25,What conversation design isn't,Not one-and-done,8,4.0,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Communities & groups,65,41.4,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Courses & certifications,54,34.4,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Books,46,29.3,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content","Mentors, colleagues & peers",43,27.4,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Events & conferences,25,15.9,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content","Podcasts, newsletters & blogs",22,14.0,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",LinkedIn & social media,17,10.8,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Vendor docs & guidelines,11,7.0,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",None / not local,7,4.5,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Other,5,3.2,,cluster_v3
+Themes in open answers,q28,"Local communities, people and content",Own research / on the job,4,2.5,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Visualize & communicate flows,62,50.8,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Documentation & project organization,35,28.7,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Data analysis & measurement,33,27.0,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Building & deploying on platforms,31,25.4,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Collaboration with clients & devs,26,21.3,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Content & copy management,25,20.5,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Prototyping & testing,18,14.8,,cluster_v3
+Themes in open answers,q31,Why these tools matter,AI / prompt work,15,12.3,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Other,10,8.2,,cluster_v3
+Themes in open answers,q31,Why these tools matter,Tool constraints (company-imposed / not ideal),6,4.9,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Chat / chatbot (generic),87,32.1,,cluster_v3
+Themes in open answers,q34,Channels and platforms,"Voice, telephony & IVR",84,31.0,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Web chat / website,79,29.2,,cluster_v3
+Themes in open answers,q34,Channels and platforms,WhatsApp,61,22.5,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Mobile / in-app,47,17.3,,cluster_v3
+Themes in open answers,q34,Channels and platforms,"Platform named, channel unspecified",42,15.5,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Other,28,10.3,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Other messaging apps & social,22,8.1,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Internal / collaboration tools,16,5.9,,cluster_v3
+Themes in open answers,q34,Channels and platforms,Emerging & multimodal surfaces,8,3.0,,cluster_v3
+Themes in open answers,q34,Channels and platforms,SMS & email,8,3.0,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Adopting GenAI / LLMs,174,63.0,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,"Tools, tech & integration limits",57,20.7,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Keeping up & learning,52,18.8,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Proving the role's value,41,14.9,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Job market & career,41,14.9,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Stakeholders & organization,40,14.5,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Hype & unrealistic expectations,34,12.3,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Reliability & control of AI,21,7.6,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,"Ethics, trust & regulation",14,5.1,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Other,10,3.6,,cluster_v3
+Themes in open answers,q36,Biggest challenge of 2024,Measuring impact,4,1.4,,cluster_v3
+Themes in open answers,q37,Trends of 2024,GenAI & LLM capabilities,203,74.6,,cluster_v3
+Themes in open answers,q37,Trends of 2024,"Technical advances (RAG, tools, models)",46,16.9,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Field recognition & growing demand,41,15.1,,cluster_v3
+Themes in open answers,q37,Trends of 2024,"Ethics, safety & quality risks",34,12.5,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Role replacement & job insecurity,32,11.8,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Agentic AI & orchestration,27,9.9,,cluster_v3
+Themes in open answers,q37,Trends of 2024,"More natural, personalized conversations",26,9.6,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Learning & keeping up,26,9.6,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Other,18,6.6,,cluster_v3
+Themes in open answers,q37,Trends of 2024,Multimodal & voice,18,6.6,,cluster_v3
+Themes in open answers,q40,Essential in 2025,AI / LLM literacy,136,48.9,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Technical skills,80,28.8,,cluster_v3
+Themes in open answers,q40,Essential in 2025,"Adaptability, resilience & continuous learning",65,23.4,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Prompt engineering,53,19.1,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Human-centered & soft skills,49,17.6,,cluster_v3
+Themes in open answers,q40,Essential in 2025,"Business, stakeholder & collaboration skills",44,15.8,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Ethics & responsible AI,23,8.3,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Design fundamentals & methodology,22,7.9,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Agentic AI & orchestration,20,7.2,,cluster_v3
+Themes in open answers,q40,Essential in 2025,Other,12,4.3,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,GenAI / LLM-driven design,124,44.8,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,User understanding & experience quality,53,19.1,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Strategy & business value,38,13.7,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Agentic AI & orchestration,35,12.6,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Other,32,11.6,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Prompting & fine-tuning,30,10.8,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,"Natural, human-like conversation",20,7.2,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Personalization & context,19,6.9,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,"Ethics, trust & safety",15,5.4,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,"Data, testing & analytics",14,5.1,,cluster_v3
+Themes in open answers,q41,More about ___ in 2025,Multimodal experiences,8,2.9,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Rigid flows & rule-based bots,92,33.2,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Manual scripting & dialogue writing,78,28.2,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Traditional conversation design in general,46,16.6,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Other,37,13.4,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Legacy channels & NLU,33,11.9,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Full automation & AI for its own sake,23,8.3,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Unsure / nothing,20,7.2,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Brand persona & tone embellishment,9,3.2,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,"Specific roles, certificates or jobs",7,2.5,,cluster_v3
+Themes in open answers,q42,Less about ___ in 2025,Prompt engineering,6,2.2,,cluster_v3
+Themes in open answers,q48,Survey feedback,Positive feedback,38,42.2,,cluster_v3
+Themes in open answers,q48,Survey feedback,Results & follow-up,17,18.9,,cluster_v3
+Themes in open answers,q48,Survey feedback,"Clarity, language & inclusion",16,17.8,,cluster_v3
+Themes in open answers,q48,Survey feedback,Survey length,16,17.8,,cluster_v3
+Themes in open answers,q48,Survey feedback,Content suggestions,16,17.8,,cluster_v3
+Themes in open answers,q48,Survey feedback,Answer format & limits,13,14.4,,cluster_v3
+Themes in open answers,q48,Survey feedback,Other,4,4.4,,cluster_v3
+Responses over time,,Responses per week (week starting Monday),2025-01-27,2,0.7,,
+Responses over time,,Responses per week (week starting Monday),2025-02-03,70,24.5,,
+Responses over time,,Responses per week (week starting Monday),2025-02-10,48,16.8,,
+Responses over time,,Responses per week (week starting Monday),2025-02-17,24,8.4,,
+Responses over time,,Responses per week (week starting Monday),2025-02-24,14,4.9,,
+Responses over time,,Responses per week (week starting Monday),2025-03-03,8,2.8,,
+Responses over time,,Responses per week (week starting Monday),2025-03-10,7,2.4,,
+Responses over time,,Responses per week (week starting Monday),2025-03-17,4,1.4,,
+Responses over time,,Responses per week (week starting Monday),2025-03-24,18,6.3,,
+Responses over time,,Responses per week (week starting Monday),2025-03-31,40,14.0,,
+Responses over time,,Responses per week (week starting Monday),2025-04-07,51,17.8,,
